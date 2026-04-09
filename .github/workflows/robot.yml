@@ -1,0 +1,39 @@
+name: 🤖 Robot Periodista - Actualización Automática
+
+on:
+  # Ejecutar cada 4 horas automáticamente
+  schedule:
+    - cron: '0 */4 * * *'
+  # También se puede ejecutar manualmente desde GitHub
+  workflow_dispatch:
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - name: 📥 Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: 🟢 Instalar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: 📦 Instalar dependencias
+        run: npm ci
+
+      - name: 🤖 Ejecutar Robot Periodista
+        run: node scripts/robot.js
+
+      - name: 📤 Subir noticias actualizadas
+        run: |
+          git config --local user.email "robot@lajotanews.es"
+          git config --local user.name "🤖 Robot Periodista"
+          git add public/data/news.json
+          git diff --staged --quiet || git commit -m "🤖 Noticias actualizadas $(date +'%d/%m/%Y %H:%M')"
+          git push
