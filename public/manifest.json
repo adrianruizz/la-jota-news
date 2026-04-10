@@ -1,0 +1,22 @@
+{
+  "name": "La Jota News",
+  "short_name": "La Jota News",
+  "description": "Noticias automáticas de los barrios La Jota, Vadorrey y Arrabal en Zaragoza.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f9fb",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "orientation": "portrait"
+}
