@@ -193,11 +193,6 @@ function App() {
         </div>
       )}
 
-      {/* ===== TICKER ===== */}
-      <div className="ticker-bar">
-        <span className="ticker-label">🔴 EN DIRECTO</span>
-        <div className="ticker-content"><span>{tickerText}</span><span>{tickerText}</span></div>
-      </div>
 
       {/* ===== HEADER ===== */}
       <header className="header">
