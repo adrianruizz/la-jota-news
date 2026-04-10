@@ -73,9 +73,11 @@ function ServicesDashboard() {
     fetch(`/api/bus?poste=${busPoste}`)
       .then(r => r.json())
       .then(data => {
-        if (data.destinos) {
-          setBusResult(data.destinos.map(d => `${d.linea}: ${d.primero} min`).join(' | '));
-        } else setBusResult('No hay datos para este poste.');
+        if (data && data.destinos) {
+          setBusResult(data.destinos.map(d => `${d.linea}: ${d.primero}`).join(' | '));
+        } else {
+          setBusResult('No hay autobuses previstos ahora mismo o el poste es incorrecto.');
+        }
       })
       .catch(() => setBusResult('Error al conectar. Reintenta.'));
   };
