@@ -194,6 +194,11 @@ function App() {
       )}
 
 
+      {/* ===== NEWS TICKER ===== */}
+      <div className="ticker-bar" style={{ paddingLeft: '1rem' }}>
+        <div className="ticker-content"><span>{tickerText}</span><span>{tickerText}</span></div>
+      </div>
+
       {/* ===== HEADER ===== */}
       <header className="header">
         <div className="header-brand"><div className="logo-icon">LJ</div> La Jota News</div>
