@@ -70,7 +70,7 @@ function ServicesDashboard() {
 
   const fetchBus = () => {
     setBusResult('Buscando...');
-    fetch(`https://api.zaragoza.es/sede/servicio/urbanismo-infraestructuras/transporte-urbano/poste/${busPoste}.json`)
+    fetch(`/api/bus?poste=${busPoste}`)
       .then(r => r.json())
       .then(data => {
         if (data.destinos) {
