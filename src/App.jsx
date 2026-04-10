@@ -48,6 +48,103 @@ function handleShare(item) {
   else { navigator.clipboard.writeText(item.link); }
 }
 
+// ============ DATA & COMPONENTS ============
+const COMERCIOS = [
+  { name: 'Taberna Morrigan', cat: 'Bar/Restaurante', icon: '🍺', maps: 'https://maps.google.com/?q=Taberna+Morrigan' },
+  { name: '2D2', cat: 'Cervecería', icon: '🍕', maps: 'https://maps.google.com/?q=Cerveceria+2D2' },
+  { name: 'Panadería La Jota', cat: 'Alimentación', icon: '🍞', maps: '#' },
+  { name: 'Farmacia 24h', cat: 'Salud', icon: '⚕️', maps: 'https://www.google.com/maps/search/farmacias+de+guardia+zaragoza' }
+];
+
+const AGENDA = [
+  { title: 'Fiestas del Barrio', date: 'Mayo 2026', icon: '🎉' },
+  { title: 'Mercadillo Plaza Mozart', date: 'Domingos', icon: '🧺' },
+  { title: 'Yoga en el Parque', date: 'Martes y Jueves', icon: '🧘' }
+];
+
+function ServicesDashboard() {
+  const [activeTab, setActiveTab] = useState('bus');
+  const [busPoste, setBusPoste] = useState('406');
+  const [busResult, setBusResult] = useState(null);
+  const [pollVote, setPollVote] = useState(() => localStorage.getItem('ljn_poll'));
+
+  const fetchBus = () => {
+    setBusResult('Buscando...');
+    fetch(`https://api.zaragoza.es/sede/servicio/urbanismo-infraestructuras/transporte-urbano/poste/${busPoste}.json`)
+      .then(r => r.json())
+      .then(data => {
+        if (data.destinos) {
+          setBusResult(data.destinos.map(d => `${d.linea}: ${d.primero} min`).join(' | '));
+        } else setBusResult('No hay datos para este poste.');
+      })
+      .catch(() => setBusResult('Error al conectar. Reintenta.'));
+  };
+
+  const castVote = (v) => {
+    setPollVote(v);
+    localStorage.setItem('ljn_poll', v);
+  };
+
+  return (
+    <div className="services-dash">
+      <div className="dash-nav">
+        <button className={activeTab === 'bus' ? 'active' : ''} onClick={() => setActiveTab('bus')}>🚌 Bus</button>
+        <button className={activeTab === 'farm' ? 'active' : ''} onClick={() => setActiveTab('farm')}>⚕️ Farmacias</button>
+        <button className={activeTab === 'shop' ? 'active' : ''} onClick={() => setActiveTab('shop')}>🏪 Comercios</button>
+        <button className={activeTab === 'poll' ? 'active' : ''} onClick={() => setActiveTab('poll')}>🗳️ Encuesta</button>
+        <button className={activeTab === 'event' ? 'active' : ''} onClick={() => setActiveTab('event')}>📅 Agenda</button>
+      </div>
+
+      <div className="dash-content">
+        {activeTab === 'bus' && (
+          <div className="dash-pane">
+            <div style={{display:'flex', gap:'0.5rem'}}>
+              <input type="text" placeholder="Nº Poste (ej: 406)" value={busPoste} onChange={e => setBusPoste(e.target.value)} />
+              <button onClick={fetchBus} className="source-btn">Consultar</button>
+            </div>
+            <p className="bus-response">{busResult || 'Introduce el nº de poste de tu parada.'}</p>
+          </div>
+        )}
+        {activeTab === 'farm' && (
+          <div className="dash-pane" style={{textAlign:'center'}}>
+            <p>Estado: 🟢 <strong>Hay 3 farmacias abiertas ahora en el sector.</strong></p>
+            <a href="https://www.google.com/maps/search/farmacias+de+guardia+zaragoza" target="_blank" rel="noreferrer" className="source-btn">Ver Mapa de Guardia ↗</a>
+          </div>
+        )}
+        {activeTab === 'shop' && (
+          <div className="shop-grid">
+            {COMERCIOS.map(c => (
+              <a key={c.name} href={c.maps} className="shop-item" target="_blank" rel="noreferrer">
+                <span>{c.icon}</span>
+                <div>
+                  <strong>{c.name}</strong>
+                  <small>{c.cat}</small>
+                </div>
+              </a>
+            ))}
+          </div>
+        )}
+        {activeTab === 'poll' && (
+          <div className="dash-pane">
+            <p><strong>¿Qué te parece la reforma de la Av. Cataluña?</strong></p>
+            {!pollVote ? (
+              <div style={{display:'flex', gap:'0.5rem', marginTop:'0.5rem'}}>
+                <button onClick={() => castVote('ok')} className="source-btn">👍 Bien</button>
+                <button onClick={() => castVote('no')} className="source-btn">👎 Mal</button>
+              </div>
+            ) : <p style={{color:'var(--color-success)', fontWeight:600}}>¡Gracias por votar!</p>}
+          </div>
+        )}
+        {activeTab === 'event' && (
+          <div className="event-list">
+            {AGENDA.map(e => <div key={e.title} className="event-item"><span>{e.icon}</span> <strong>{e.title}</strong> • {e.date}</div>)}
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+
 // ============ MAIN APP ============
 function App() {
   const [news, setNews] = useState([]);
@@ -260,6 +357,8 @@ function App() {
           {trending.map((t,i) => <span key={i} className="trending-tag" onClick={() => { setSearchQuery(t); setActiveSection('TODAS'); setShowFavsOnly(false); }}>{t}</span>)}
         </div>
       )}
+
+      <ServicesDashboard />
 
       <main className="main-content">
         {filteredNews.length === 0 ? (

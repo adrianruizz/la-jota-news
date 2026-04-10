@@ -213,6 +213,51 @@ a:hover { color: var(--color-accent-hover); }
 }
 .trending-tag:hover { background: var(--color-accent); color: white; border-color: var(--color-accent); }
 
+/* =================== SERVICES DASHBOARD =================== */
+.services-dash {
+  max-width: 1300px; margin: 1.5rem auto; padding: 0 2rem; width: 100%;
+}
+.dash-nav {
+  display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 0.5rem;
+}
+.dash-nav button {
+  background: var(--color-bg-card); border: 1px solid var(--color-border);
+  padding: 0.5rem 1rem; border-radius: 12px; font-size: 0.85rem; font-weight: 600;
+  cursor: pointer; transition: var(--transition); color: var(--color-text-muted);
+}
+.dash-nav button.active {
+  background: var(--color-accent); color: white; border-color: var(--color-accent);
+  box-shadow: 0 4px 12px var(--color-accent-glow);
+}
+.dash-content {
+  background: var(--color-bg-card); border: 1px solid var(--color-border);
+  border-radius: 16px; padding: 1.25rem; box-shadow: var(--shadow-sm);
+  min-height: 120px; display: flex; align-items: center;
+}
+.dash-pane { width: 100%; }
+.dash-pane input {
+  flex: 1; padding: 0.6rem 1rem; border-radius: 10px; border: 1px solid var(--color-border);
+  background: var(--color-bg); color: var(--color-text);
+}
+.bus-response { margin-top: 0.75rem; font-size: 0.9rem; font-weight: 600; color: var(--color-accent); }
+
+.shop-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 1rem; width: 100%; }
+.shop-item {
+  display: flex; align-items: center; gap: 0.75rem; padding: 0.75rem;
+  background: var(--color-bg); border-radius: 12px; transition: var(--transition);
+  border: 1px solid transparent; text-decoration: none; color: inherit;
+}
+.shop-item:hover { transform: translateY(-3px); border-color: var(--color-accent); box-shadow: var(--shadow-sm); }
+.shop-item span { font-size: 1.5rem; }
+.shop-item strong { display: block; font-size: 0.9rem; }
+.shop-item small { font-size: 0.7rem; color: var(--color-text-muted); }
+
+.event-list { display: flex; flex-direction: column; gap: 0.5rem; width: 100%; }
+.event-item {
+  padding: 0.6rem 1rem; background: var(--color-bg); border-radius: 10px;
+  font-size: 0.85rem; display: flex; align-items: center; gap: 0.75rem;
+}
+
 /* =================== MAIN =================== */
 .main-content { flex: 1; max-width: 1300px; margin: 0 auto; padding: 0 2rem 3rem; width: 100%; }
 
