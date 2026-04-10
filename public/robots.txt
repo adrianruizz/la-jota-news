@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://la-jota-news.vercel.app/sitemap.xml
