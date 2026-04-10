@@ -371,8 +371,8 @@ function App() {
           </div>
         </div>
         <div className="footer-bottom">
-          <span>© {new Date().getFullYear()} La Jota News — Proyecto vecinal</span>
-          <span>Hecho con ❤️ para la margen izquierda de Zaragoza</span>
+          <span>© {new Date().getFullYear()} La Jota News — Proyecto vecinal por <strong>Adrián Ruiz</strong></span>
+          <span>Hecho con ❤️ en Zaragoza</span>
         </div>
       </footer>
     </div>
