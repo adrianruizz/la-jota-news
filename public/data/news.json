@@ -1,5 +1,35 @@
 [
   {
+    "id": "zywwwtch3",
+    "title": "El Tribunal Supremo confirma la absolución de un joven acusado de abuso sexual a una menor en Borja",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/05/01/tribunal-supremo-confirma-absolucion-un-joven-acusado-abuso-sexual-una-menor-borja-2016589.html",
+    "pub_date": "2026-05-01T03:00:00.000Z",
+    "summary": "El alto tribunal, aunque no excluye que el acusado se aprovechase de la situación, considera que los argumentos que llevaron al TSJA a revocar la condena de la Audiencia de Zaragoza por dudas sobre el consentimiento están bien argumentados....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/04/30/69f38807a2caa3-32562807.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "6g1rmoo1b",
+    "title": "Real Zaragoza-Granada: el tren pasa otra vez",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/deportes/futbol/real-zaragoza/2026/05/01/real-zaragoza-granada-tren-pasa-otra-vez-2016535.html",
+    "pub_date": "2026-05-01T03:00:00.000Z",
+    "summary": "  ...",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/04/30/69f368c4f32739-66510444.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "ohwd0mfar",
+    "title": "Bertín Osborne: \"Al final me pregunto qué hago en España, pero sigo aquí porque soy más español que la paella\"",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/05/01/bertin-osborne-pregunto-espana-sigo-paella-concierto-zaragoza-2016555.html",
+    "pub_date": "2026-05-01T03:00:00.000Z",
+    "summary": "El cantante Bertín Osborne arranca este sábado en la sala Mozart del Auditorio de Zaragoza su gira de despedida de los escenarios....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/04/30/69f374a04014b1-00024958.png",
+    "category": "ZARAGOZA"
+  },
+  {
     "id": "n9vnlznh6",
     "title": "Resultados de los cuartos de final de los 'play off' por el título de la Liga Femenina Endesa de baloncesto",
     "original_source": "Heraldo de Aragón",
@@ -17,6 +47,36 @@
     "pub_date": "2026-04-30T20:36:01.000Z",
     "summary": "El equipo aragonés se impone en Estepona con amplitud (68-84), en el partido de ida de los cuartos de final del 'play off', y defenderá el domingo en el pabellón Príncipe Felipe 16 puntos de ventaja....",
     "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/04/30/69f3b51e53a733-81037409.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "xc76tck0g",
+    "title": "Del Actur al centro: la barbería que puso de moda lo clásico abre nuevo local en plaza Sas",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/04/30/actur-centro-barberia-que-puso-moda-clasico-abre-nuevo-local-plaza-sas-2016489.html",
+    "pub_date": "2026-04-30T20:00:00.000Z",
+    "summary": "El proyecto de Jorge Villarroya, pionero en Zaragoza, inaugura su quinto espacio 11 años después con una apuesta firme por el ritual tradicional....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/04/30/69f34350b40e95-35499780.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "o7wac08u2",
+    "title": "El mayúsculo reto solidario de un atleta zaragozano en 24 horas: \"He dado la vuelta al mundo corriendo\"",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/deportes/2026/04/30/reto-atleta-cesar-gimeno-24-horas-corriendo-parque-grande-zaragoza-aspanoa-cancer2014208-2014208.html",
+    "pub_date": "2026-04-30T20:00:00.000Z",
+    "summary": "El ultrafondista zaragozano César Gimeno recorrerá 166 kilómetros dando vueltas al Parque Grande de Zaragoza el próximo 2 de mayo en colaboración con Aspanoa en la lucha contra el cáncer infantil....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/04/21/69e7e5323342c9-06857302.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "ak5qrl6mo",
+    "title": "Zaragoza estrenará en mayo una red de 8 aparcabicis cerrados para fomentar la conexión con el tranvía, el tren o el bus",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/motor/2026/04/30/zaragoza-area-metropolitana-estreno-aparcabicis-cerrados-impulso-intermodalidad-2016607.html",
+    "pub_date": "2026-04-30T20:00:00.000Z",
+    "summary": "El Consorcio de Transportes completará en la capital y el área metropolitana la oferta de plataformas seguras de la Universidad, donde uno de cada cuatro miembros acceden al campus en bicicleta....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/04/30/69f39068839749-09925033.jpeg",
     "category": "ZARAGOZA"
   },
   {
@@ -3607,36 +3667,6 @@
     "pub_date": "2026-04-21T05:54:34.000Z",
     "summary": "La base francesa, que pone rumbo a Portland, se despidió de la afición aragonesa con un breve vídeo en el que agradecía el apoyo recibido durante estos meses en la capital....",
     "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/04/21/69e70ff9caa657-18593516.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "w9o4w3tav",
-    "title": "Rompe dos dientes a un desconocido en una fiesta en el Parque de Atracciones de Zaragoza",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/04/21/rompe-dos-dientes-un-desconocido-una-fiesta-parque-atracciones-zaragoza-2013771.html",
-    "pub_date": "2026-04-21T03:00:00.000Z",
-    "summary": "Los hechos se produjeron en marzo de 2025 durante la celebración de San Braulio, patrón de la Universidad de Zaragoza....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/03/25/69c3db8f494f63-49452372.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "bkvsbb9mz",
-    "title": "Condenado el conductor de Zaragoza que se dio a la fuga tras arrastrar a un guardia civil durante 300 metros",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/04/21/condenado-conductor-zaragoza-que-se-dio-fuga-tras-arrastrar-un-guardia-civil-durante-300-metros-tauste-2013810.html",
-    "pub_date": "2026-04-21T03:00:00.000Z",
-    "summary": "Los hechos se produjeron el 16 de marzo de 2024. El acusado estuvo más de dos meses en paradero desconocido....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2024/05/21/el-bmw-implicado-en-los-hechos-fue-hallado-destrozado-en-boquineni.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "k3boljkl5",
-    "title": "Abre un nuevo parque infantil en Zaragoza de más de 3.000 metros cuadrados",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/2026/04/21/abre-enjoy-park-nuevo-parque-infantil-zaragoza-mas-3-000-metros-es-mejor-sitio-para-que-los-chicos-dejen-movil-por-unas-horas-2013642.html",
-    "pub_date": "2026-04-21T03:00:00.000Z",
-    "summary": "Las instalaciones, que abrirán sus puertas el día 22 de abril,...",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/04/20/69e6233a7507c0-01665410.jpeg",
     "category": "ZARAGOZA"
   }
 ]
