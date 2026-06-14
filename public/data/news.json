@@ -1,5 +1,75 @@
 [
   {
+    "id": "4a8wcfmyi",
+    "title": "Una localidad zaragozana registra la segunda temperatura máxima de toda España: hasta dónde ha llegado el mercurio este domingo",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/2026/06/14/una-localidad-zaragozana-registra-segunda-temperatura-maxima-toda-espana-hasta-donde-ha-llegado-mercurio-este-domingo-2029032.html",
+    "pub_date": "2026-06-14T18:30:01.000Z",
+    "summary": "Hasta tres poblaciones aragonesas se cuelan entre las diez más calurosas de todo el país....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/06/14/6a2e97dc934fa2-83349337.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "pi9ccmo6l",
+    "title": "Mónica Pérez Sobrino (escritora): \"Si un trauma del pasado se manifiesta en el presente conviene volver atrás\"",
+    "original_source": "Aragón Digital",
+    "link": "https://www.aragondigital.es/articulo/cultura/monica-perez-sobrino-escritora-trauma-pasado-manifiesta-presente-conviene-volver-atras/20260614193942990024.html",
+    "pub_date": "2026-06-14T17:39:42.000Z",
+    "summary": "La autora zaragoza ha publicado recientemente su segunda novela \"Juegos infames\"...",
+    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/06/14/2026061419384969975.jpg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "n27tk4lej",
+    "title": "Farmacias de guardia en Zaragoza este lunes, 15 de junio",
+    "original_source": "Aragón Digital",
+    "link": "https://www.aragondigital.es/articulo/zaragoza/farmacias-guardia-zaragoza-lunes-15-junio/20260614190040988879.html",
+    "pub_date": "2026-06-14T17:00:40.000Z",
+    "summary": "Esta es la lista detallada de las farmacias de guardia disponibles este lunes, 15 de junio...",
+    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2024/12/09/2024120919132125158.jpg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "biy4eaakw",
+    "title": "Pocos se fijan en esta frase en latín del Pilar: así se traduce y este es su significado",
+    "original_source": "Aragón Digital",
+    "link": "https://www.aragondigital.es/articulo/zaragoza/frase-latin-pilar-traduce-significado/20251201104530955014.html",
+    "pub_date": "2026-06-14T16:53:00.000Z",
+    "summary": "Pese a su discreción, forma parte de la tradición espiritual del templo más emblemático de Zaragoza...",
+    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2025/12/01/2025120110404823889.jpg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "53o3ubxqg",
+    "title": "La escuela pública de Aragón volverá a salir a la calle este martes",
+    "original_source": "Aragón Digital",
+    "link": "https://www.aragondigital.es/articulo/educacion/escuela-publica-aragon-volvera-salir-calles-martes/20260614183242990022.html",
+    "pub_date": "2026-06-14T16:32:42.000Z",
+    "summary": "Marea Verde Aragón celebrará además una asamblea abierta tras la concentración convocada en Zaragoza...",
+    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/05/20/2026052020324878355.jpg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "3k5ceiohu",
+    "title": "Una zaragozana de 19 años conquista el Concurso de Corita Viamonte cantando a Whitney Houston",
+    "original_source": "Aragón Digital",
+    "link": "https://www.aragondigital.es/articulo/cultura/zaragozana-19-anos-conquista-concurso-corita-viamonte-cantando-whitney-houston/20260614180511990021.html",
+    "pub_date": "2026-06-14T16:05:11.000Z",
+    "summary": "Así ha sido la final del III Concurso de Música Española Corita Viamonte, una cita en la que participantes de todas las edades han podido demostrar el talento que existe en Zaragoza en el ámbito musical...",
+    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/06/14/2026061417475894806.jpg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "gsk2k2015",
+    "title": "Esta es la piscina más grande de Zaragoza: horarios, precios, instalaciones y cómo llegar",
+    "original_source": "Aragón Digital",
+    "link": "https://www.aragondigital.es/articulo/zaragoza/piscina-mas-grande-zaragoza-horarios-precios-intalaciones-llegar/20250813170000937076.html",
+    "pub_date": "2026-06-14T15:24:00.000Z",
+    "summary": "El complejo dispone de cuatro piscinas de diferentes dimensiones, además de numerosas instalaciones deportivas...",
+    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/06/14/2026061417203515428.jpg",
+    "category": "ZARAGOZA"
+  },
+  {
     "id": "zb0gzy2lc",
     "title": "Un paseo dominicial entre artesanía y gastronomía al estilo medieval en Zaragoza: \"Con algún grado menos hubiera ido mejor\"",
     "original_source": "Heraldo de Aragón",
@@ -17,6 +87,16 @@
     "pub_date": "2026-06-14T12:42:21.000Z",
     "summary": "Roque Gistau, el exalcalde Juan Alberto Belloch, Jerónimo Blasco, Paco Pellicer y Javier Carnicer celebran la mayoría de edad de la muestra internacional....",
     "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/06/14/6a2eab3f720d91-91901323.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "6csm5pf2z",
+    "title": "Jesús Morte: \"Siento morriña por el cierre del Parque de Atracciones\"",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/aragon/zaragoza/jesus-morte-siento-morrina-por-cierre-parque-atracciones-2028967-2.html",
+    "pub_date": "2026-06-14T11:26:41.000Z",
+    "summary": "Por primera vez en más de medio siglo, el Parque de Atracciones de Zaragoza permanece cerrado. Su histórico gestor, Jesús Morte, reconoce la tristeza que le provoca la situación, aunque confía en una solución próxima...",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/06/14/6a2e8fed597570-19116523.jpeg",
     "category": "ZARAGOZA"
   },
   {
@@ -3300,6 +3380,16 @@
     "category": "ZARAGOZA"
   },
   {
+    "id": "1ykdfcb8a",
+    "title": "Carrefour abrirá un nuevo supermercado en una importante avenida de Zaragoza",
+    "original_source": "Soy de Zaragoza",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWlo0NjBySnRORTlnSlU3WnNtOE15WndfWUNyR0RGVlJtUTZfcFBiVHBhSkx4ZVFnZUVsTEM4RlpkYzdzMTFkQWRBSHNuNUJmYzZzbHNfc1dYNko2YU56S0lYQjJxOUdsZUdueDYyelhYaXFTTDYyUkVDRjBycGRKQmZWZDVqc0tKMHctSlAyMmdsVDh1NG1wS0xaUTIwZDZiX25LT1hGcDU?oc=5",
+    "pub_date": "2026-06-05T07:00:00.000Z",
+    "summary": "Carrefour abrirá un nuevo supermercado en una importante avenida de Zaragoza  Soy de Zaragoza...",
+    "image_url": null,
+    "category": "ZARAGOZA"
+  },
+  {
     "id": "kzgi3tubd",
     "title": "Consomé, merluza y vino de Ainzón: esto es lo que cenó el Papa en Zaragoza",
     "original_source": "Heraldo de Aragón",
@@ -3327,186 +3417,6 @@
     "pub_date": "2026-06-05T03:00:00.000Z",
     "summary": "El equipo benjamín de primer año del Amistad, que lleva dos años sin perder contra niños de su edad, gana un torneo internacional a las grandes canteras....",
     "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/06/04/6a215ff4d91621-92924341.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "dn6pd9ig2",
-    "title": "Los problemas de liquidez retrasan los pagos a jugadores y proveedores del Real Zaragoza",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/deportes/futbol/real-zaragoza/2026/06/04/problemas-liquidez-retrasan-pago-nominas-jugadores-real-zaragoza-2026328.html",
-    "pub_date": "2026-06-04T20:58:31.000Z",
-    "summary": "La plantilla todavía no ha cobrado la mensualidad de mayo. El club confía en que la situación quede resuelta próximamente, a la vez que reconoce una realidad económica complicada....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/06/04/6a21a765d431b2-01334655.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "auj4lbuhp",
-    "title": "Así fue la detención del presunto autor del crimen de Caspe: 50 agentes, un grupo de Whastapp y el helicóptero Cuco",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/2026/06/04/asi-ha-sido-detencion-presunto-autor-crimen-caspe-50-agentes-un-grupo-whastapp-helicoptero-cuco-2026427.html",
-    "pub_date": "2026-06-04T20:04:40.000Z",
-    "summary": "La Guardia Civil y la Policía Local del municipio zaragozano han culminado sobre las 14.30 una búsqueda de 16 horas en la que no se han escatimado esfuerzos y en la que se han examinado hasta las copas de los árboles....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/06/04/6a21d961066376-99659997.r_d.1466-733-6400.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "s9jy9fnmo",
-    "title": "Sid, 19 años y 40 kilos: vivir en la calle en Zaragoza con una enfermedad mental",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/2026/06/04/sid-19-anos-40-kilos-vivir-calle-zaragoza-con-una-enfermedad-mental-sin-tratamiento-2026255.html",
-    "pub_date": "2026-06-04T20:00:00.000Z",
-    "summary": "El educador Pascual Jiménez, de la asociación Acullir, describe el día a día del joven argelino con problemas mentales y protegido por el juez, que descansa en la calle...",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/06/04/6a219a1075aaa0-24202698.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "3t99e3th0",
-    "title": "Zaragoza y Huesca, entre las provincias donde más ha mejorado el nivel de vida en 50 años",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/economia/2026/06/04/zaragoza-huesca-provincias-pib-per-capita-50-anos-informe-economistas-camara-2026235.html",
-    "pub_date": "2026-06-04T20:00:00.000Z",
-    "summary": "Un estudio de las Cámaras y el Consejo General de Economistas analiza la evolución de estas divisiones administrativas desde la Transición en el que se mantienen diferencias entre el norte y sur en productividad y falta inversión en I+D....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2019/03/20/las-terrazas-de-zaragoza-esta-semana.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "dfxw2enlo",
-    "title": "La procesión del Corpus recorre el Casco Histórico de Zaragoza con los Gigantes, la Custodia procesional y niños de comunión",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/06/04/procesion-corpus-recorre-casco-historico-zaragoza-con-los-gigantes-custodia-procesional-ninos-comunion-2026399.html",
-    "pub_date": "2026-06-04T19:42:04.000Z",
-    "summary": "Miembros de la Corporación municipal han participado en el desfile de la que fue la fiesta principal de la capital, hasta que se declaró a la Virgen del Pilar....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/06/04/6a21d4c2d60598-29606733.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "o6vwhyxu4",
-    "title": "Detenido un hombre por prender fuego a una vivienda en Zaragoza con su madre dentro",
-    "original_source": "Aragón Digital",
-    "link": "https://www.aragondigital.es/articulo/sucesos/detenido-hombre-prender-fuego-vivienda-zaragoza-madre-dentro/20260604203610988150.html",
-    "pub_date": "2026-06-04T18:36:10.000Z",
-    "summary": "El fuego se declaró en una finca de la carretera de Logroño frente al antiguo restaurante El Madrazo y hasta dos personas fueron atendidas por inhalación de humo...",
-    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/06/04/2026060420354322484.jpg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "xlbksygih",
-    "title": "Mariano Marcén, el policía que coordinó el tráfico durante el apagón: “Estamos mejor preparados por si vuelve a pasar”",
-    "original_source": "Aragón Digital",
-    "link": "https://www.aragondigital.es/articulo/sucesos/policia-que-coordino-trafico-apagon-primero-fue-transmitir-tranquilidad/20260604200930988145.html",
-    "pub_date": "2026-06-04T18:09:30.000Z",
-    "summary": "El subinspector de la Policía Local recibe la Medalla de Oro al Mérito Profesional por su labor durante el apagón del 28 de abril de 2025 y destaca la coordinación de los servicios de emergencia y la respuesta ciudadana en Zaragoza...",
-    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/06/04/2026060420084225478.jpg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "bumytk1oe",
-    "title": "Ya a la venta las entradas para ver en Zaragoza a la selección española de baloncesto: fechas y precios",
-    "original_source": "Aragón Digital",
-    "link": "https://www.aragondigital.es/articulo/deportes/venta-entradas-ver-zaragoza-seleccion-espanola-baloncesto-fechas-precios/20260604194201988138.html",
-    "pub_date": "2026-06-04T17:42:01.000Z",
-    "summary": "La selección masculina y la femenina jugarán entre el 28 y el 30 de agosto en el Príncipe Felipe...",
-    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2024/08/08/2024080811542238696.jpg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "4ra6ouzwl",
-    "title": "Zaragoza ya respira vino con la Feria de la Garnacha: arrancan cuatro días de catas en el Parque Macanaz",
-    "original_source": "Aragón Digital",
-    "link": "https://www.aragondigital.es/articulo/zaragoza/zaragoza-respira-vino-festival-garnacha-arrancan-cuatro-dias-catas-parque-macanaz/20260604193038988115.html",
-    "pub_date": "2026-06-04T17:30:38.000Z",
-    "summary": "La cita se extiende una jornada más, hasta el domingo, y contará con nuevas bodegas y nuevas degustaciones...",
-    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/06/04/2026060419170968895.jpg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "gbvle520o",
-    "title": "Zaragoza ya tiene su propia Jota de la Garnacha: así es el nuevo himno de Grandes Vinos",
-    "original_source": "Enjoy Zaragoza",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82SXVwSXIwT1FNMklod05OcGM5Qlo4UFJFSW5WYTg2Yk9mbTJBRGI0VnJUNmNLU0dPOVBRa2tfWmY5dzRxNVMxd1o5V0tKT0E3UVRhLV9meDltaUZlSlE?oc=5",
-    "pub_date": "2026-06-04T17:06:49.000Z",
-    "summary": "Zaragoza ya tiene su propia Jota de la Garnacha: así es el nuevo himno de Grandes Vinos  Enjoy Zaragoza...",
-    "image_url": null,
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "nscjpyyir",
-    "title": "Chueca no da por finalizada la ola de robos en Zaragoza y pide \"seguir vigilante\"",
-    "original_source": "Aragón Digital",
-    "link": "https://www.aragondigital.es/articulo/sucesos/chueca-da-finalizada-ola-robos-zaragoza-pide-seguir-vigilante/20260604190243988102.html",
-    "pub_date": "2026-06-04T17:02:43.000Z",
-    "summary": "La alcaldesa destaca la reducción de los alcantarillazos tras los refuerzos de Policía Nacional y Policía Local, pero advierte de que mantendrá la vigilancia para evitar que los robos resurjan en barrios como Delicias y Las Fuentes...",
-    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/06/04/2026060419011864653.jpg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "34x9dyz76",
-    "title": "Farmacias de guardia en Zaragoza este viernes, 5 de junio",
-    "original_source": "Aragón Digital",
-    "link": "https://www.aragondigital.es/articulo/zaragoza/farmacias-guardia-zaragoza-viernes-5-junio/20260604190013987867.html",
-    "pub_date": "2026-06-04T17:00:13.000Z",
-    "summary": "Esta es la lista detallada de las farmacias de guardia disponibles este viernes, 5 de junio...",
-    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2020/04/24/20200424104335233936.jpg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "mf5zoldaf",
-    "title": "Casademont Zaragoza presenta el logo de su 25º aniversario",
-    "original_source": "Aragón Digital",
-    "link": "https://www.aragondigital.es/articulo/basket-zaragoza/casademont-zaragoza-presenta-logo-25o-aniversario/20260604185539988097.html",
-    "pub_date": "2026-06-04T16:55:39.000Z",
-    "summary": "El nuevo logo fue presentado durante el evento de final de temporada realizado por el club aragonés...",
-    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/06/04/2026060418512128132.jpg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "b5s68fz95",
-    "title": "Comienza la Feria Internacional de la Garnacha de Zaragoza con muy buenas expectativas: \"Esperamos superar la venta del año pasado\"",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/06/04/comienza-feria-internacional-garnacha-zaragoza-con-muy-buenas-expectativas-esperamos-superar-venta-ano-pasado-2026327.html",
-    "pub_date": "2026-06-04T16:41:49.000Z",
-    "summary": "La cita cuenta con 22 bodegas diferentes que ofrecerán a los asistentes sus variantes. Todas las que participaron el año pasado vuelven a estar presentes en esta segunda edición....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/06/04/6a21a35ce0e006-09764052.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "zn7klg716",
-    "title": "Helena Pueyo, exjugadora de Casademont Zaragoza, ficha por Valencia Basket",
-    "original_source": "Aragón Digital",
-    "link": "https://www.aragondigital.es/articulo/basket-zaragoza/helena-pueyo-exjugadora-casademont-zaragoza-ficha-valencia-basket/20260604182346988084.html",
-    "pub_date": "2026-06-04T16:23:46.000Z",
-    "summary": "La balear firma por dos temporadas con el club taronja después de haber oficializado su marcha de la entidad aragonesa hace solo dos semanas...",
-    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/06/04/2026060418184779757.jpg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "ws3s3nr6f",
-    "title": "El Banco de Sangre recibe un reconocimiento por su colaboración con la Policía Local de Zaragoza",
-    "original_source": "Aragón Digital",
-    "link": "https://www.aragondigital.es/articulo/zaragoza/banco-sangre-recibe-reconocimiento-colaboracion-policia-local-zaragoza/20260604181030988082.html",
-    "pub_date": "2026-06-04T16:10:30.000Z",
-    "summary": "El acto, que ha tenido lugar en el marco de la celebración de la patrona de la Policía Local, Nuestra Señora del Portillo...",
-    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/06/04/2026060418094088775.jpg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "53wjnrgfy",
-    "title": "Una fuga de agua por una avería convierte una plaza de Zaragoza en una piscina",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/06/04/una-fuga-agua-parque-goya-zaragoza-deja-como-una-piscina-plaza-tauromaquia-2026314.html",
-    "pub_date": "2026-06-04T16:00:49.000Z",
-    "summary": "Un operario y una patrulla de la Policía Local están precintado la zona, a la espera de la llegada de los trabajadores....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/06/04/6a21a766bcc1a5-56864978.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "jie4vphna",
-    "title": "Carrefour abrirá un nuevo supermercado en una importante avenida de Zaragoza",
-    "original_source": "Soy de Zaragoza",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWlo0NjBySnRORTlnSlU3WnNtOE15WndfWUNyR0RGVlJtUTZfcFBiVHBhSkx4ZVFnZUVsTEM4RlpkYzdzMTFkQWRBSHNuNUJmYzZzbHNfc1dYNko2YU56S0lYQjJxOUdsZUdueDYyelhYaXFTTDYyUkVDRjBycGRKQmZWZDVqc0tKMHctSlAyMmdsVDh1NG1wS0xaUTIwZDZiX25LT1hGcDU?oc=5",
-    "pub_date": "2026-06-04T15:56:10.000Z",
-    "summary": "Carrefour abrirá un nuevo supermercado en una importante avenida de Zaragoza  Soy de Zaragoza...",
-    "image_url": null,
     "category": "ZARAGOZA"
   }
 ]
