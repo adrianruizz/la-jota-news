@@ -1,5 +1,45 @@
 [
   {
+    "id": "1qcdzm2zu",
+    "title": "Los trabajadores de Zaragoza ya sufren las altas temperaturas: \"Son días duros\"",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/06/20/trabajadores-zaragoza-sufren-altas-temperaturas-dias-duros-2030647.html",
+    "pub_date": "2026-06-20T03:00:00.000Z",
+    "summary": "Las personas que realizan sus labores al aire libre padecen las consecuencias del calor en la capital aragonesa....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/06/19/6a3571521c90e2-85159122.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "gjd2svr91",
+    "title": "Un gigante tabacalero abre un local en Zaragoza para lanzar su dispositivo de tabaco calentado",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/economia/2026/06/20/master-craft-studio-glo-local-zaragoza-tabaco-calentado-riesgos-2028480.html",
+    "pub_date": "2026-06-20T03:00:00.000Z",
+    "summary": "British American Tobacco (BAT) reforma una antigua tienda de moda para presentar su última innovación con nicotina, dentro de la gama de alternativas a los cigarrillos sobre la que las autoridades sanitarias también alertan de sus riesgos....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/06/19/6a354cebd4b878-00960507.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "72tfmwd19",
+    "title": "Dos hermanos abren un restaurante argentino en Zaragoza: \"Habrá pastel de papas, pizzas porteñas, milanesa...\"",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/gastronomia/2026/06/20/restaurante-ciruja-argentino-zaragoza-2030281.html",
+    "pub_date": "2026-06-20T03:00:00.000Z",
+    "summary": "Los hermanos Delli Carpini inician esta nueva andadura en el distrito Universidad de la capital aragonesa dentro de unas semanas....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/06/18/6a34110ef3e384-73607460.r_d.1082-869-9600.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "xwym7o0x5",
+    "title": "Muere un hombre en un accidente laboral con una grúa en Quinto (Zaragoza)",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/06/19/muere-un-hombre-un-accidente-laboral-con-una-grua-quinto-zaragoza-2030728.html",
+    "pub_date": "2026-06-19T21:43:55.000Z",
+    "summary": "Bomberos de la DPZ ayudaron a la policía judicial a recuperar el cuerpo de la víctima....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/06/19/6a35b808688ae2-74514680.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
     "id": "e6hprgaq3",
     "title": "Aparatoso incendio en Zaragoza con varios focos en un camino de Parque Venecia",
     "original_source": "Heraldo de Aragón",
@@ -7,6 +47,16 @@
     "pub_date": "2026-06-19T20:51:18.000Z",
     "summary": "El fuego se ha declarado en un área de cañas y matorral. Los Bomberos trabajan en su extinción....",
     "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/06/19/6a35aa6ce38531-16422637.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "1pz4pk0jc",
+    "title": "Cierra la centenaria zapatería Ricardo de Zaragoza: \"La gente joven compra delante de una pantalla\"",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/economia/2026/06/19/cierra-zapateria-calzados-ricardo-zaragoza-2030419.html",
+    "pub_date": "2026-06-19T20:00:00.000Z",
+    "summary": "Ubicada en el Coso, 109, de la capital aragonesa, este emblemático comercio cierra por la jubilación de sus propietarios, así como por la falta de relevo generacional y los cambios de hábitos a la hora de comprar....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/06/19/6a35181e455e72-87462415.jpeg",
     "category": "ZARAGOZA"
   },
   {
@@ -147,6 +197,16 @@
     "pub_date": "2026-06-19T13:16:05.000Z",
     "summary": "La detención se produjo en durante la madrugada de este jueves en la avenida de Navarra....",
     "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/06/19/6a3540e0bec055-81620983.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "ihmmb1wuz",
+    "title": "Más de 7.100 aspirantes a maestro se examinan este sábado en Aragón para 308 plazas: críticas al modelo y aulas climatizadas",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/2026/06/19/mas-7-100-aspirantes-maestro-se-examinan-este-sabado-aragon-para-308-plazas-criticas-modelo-aulas-climatizadas-2030542.html",
+    "pub_date": "2026-06-19T13:09:22.000Z",
+    "summary": "Las oposiciones estrenan algunas sedes de la Universidad de Zaragoza y el Palacio de Congresos de Huesca para hacer frente a las altas temperaturas. Los sindicatos denuncian los temarios desfasados y las \"condiciones indignas\" de los tribunales....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2025/06/21/calor-y-nervios-en-las-oposiciones-a-docente-en-aragon-27.jpeg",
     "category": "ZARAGOZA"
   },
   {
@@ -3367,56 +3427,6 @@
     "pub_date": "2026-06-10T06:48:42.000Z",
     "summary": "Mercado Medieval de Zaragoza 2026 – Desvíos autobús urbano  Avanza Zaragoza...",
     "image_url": null,
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "9vc7lthrd",
-    "title": "El Leapmotor B05 se muestra en Madrid antes de su fabricación en Zaragoza con un precio desde 19.500 €",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/motor/2026/06/10/leapmotorb05-electrico-fabrica-zaragoza-precio-derribo-2027663.html",
-    "pub_date": "2026-06-10T03:00:00.000Z",
-    "summary": "Cien por cien eléctrico y formato berlina, tendrá aires deportivos y un precio muy competitivo, que arrancará en los 19.500 euros, con descuentos....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/06/09/6a284111051832-18674899.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "lxpplusm5",
-    "title": "Opel invertirá 1.000 millones en Alemania y sacará cuatro nuevos modelos hasta 2030, dos en Zaragoza",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/economia/2026/06/10/opel-invertira-1-000-millones-alemania-sacara-cuatro-nuevos-modelos-hasta-2030-dos-zaragoza-2027648.html",
-    "pub_date": "2026-06-10T03:00:00.000Z",
-    "summary": "La compañía trabajará en Rüsselsheim en el diseño y la ingeniería de la próxima generación del Corsa y del SUV que desarrollará con el grupo chino Leapmotor....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/06/09/6a27fe6ea289b3-89783449.r_d.2684-1657-6400.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "5cma8f4ns",
-    "title": "Un joven de Zaragoza al que suplantaron la identidad tuvo que ir a juicios en 7 ciudades",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/06/10/joven-zaragoza-suplantaron-identidad-enfrentar-juicios-7-ciudades-diferentes-2027554.html",
-    "pub_date": "2026-06-10T03:00:00.000Z",
-    "summary": "Fue víctima de una estafa a la hora de comprar una cámara de fotos por internet y el ciberdelincuente utilizó sus datos para cometer numerosos delitos por todo el país....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2024/03/23/la-policia-nacional-cuenta-con-especialistas-en-ciberdelincuencia.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "y129dv8o8",
-    "title": "Una mujer de Zaragoza que se mudó por el acoso de un vecino: “Me vigilaba permanentemente”",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/06/10/una-mujer-zaragoza-que-se-mudo-por-acoso-un-vecino-me-vigilaba-permanentemente-2027686.html",
-    "pub_date": "2026-06-10T03:00:00.000Z",
-    "summary": "C. D. T., acusado de haber cometido un delito de quebrantamiento de medida cautelar, se acogió este martes en el juicio a su derecho a no declarar....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2025/10/26/acceso-al-edificio-fueros-de-aragon-de-la-ciudad-de-la-justicia-en-zaragoza.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "ph3u1fp6x",
-    "title": "El zaragozano que seguirá a España en vivo durante todo el Mundial: \"El esfuerzo económico merece la pena\"",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/deportes/futbol/2026/06/10/david-cebolla-zaragozano-seguira-espana-mundial-esfuerzo-economico-merece-pena-2026499.html",
-    "pub_date": "2026-06-10T03:00:00.000Z",
-    "summary": "David Cebollada tiene el viaje de ida a Estados Unidos el 13 de junio y el de vuelta, el 20 de julio: “Vamos a ganar el Mundial”....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2024/07/08/la-marea-roja-en-alemania-1.jpeg",
     "category": "ZARAGOZA"
   }
 ]
