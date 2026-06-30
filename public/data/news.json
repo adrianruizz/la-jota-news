@@ -1,5 +1,65 @@
 [
   {
+    "id": "rskfz46h6",
+    "title": "El restaurante El Candelas de Zaragoza recibe al verano con sus sugerentes arroces",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/gastronomia/2026/06/30/restaurante-candelas-zaragoza-jornadas-arroz-2033272.html",
+    "pub_date": "2026-06-30T03:00:00.000Z",
+    "summary": "En sus jornadas incluye novedades como uno con un punto dulzón y el de carpaccio de picaña al pil pil de boletus....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/06/29/6a42cf08de7d59-35813356.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "v1t89im4w",
+    "title": "Informe Zapater: el documento que plasma el fichaje de una de las leyendas del Real Zaragoza",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/deportes/futbol/real-zaragoza/2026/06/30/informe-zapater-documento-que-plasma-captacion-una-las-leyendas-real-zaragoza-2032915.html",
+    "pub_date": "2026-06-30T03:00:00.000Z",
+    "summary": "Juan Carlos Chirri nos traslada la convocatoria de la selección alevín aragonesa de 1997 en la que fue fichado el ejeano por el equipo del león rampante...",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/06/29/6a42a46108c046-09575648.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "g35v95ash",
+    "title": "Ambientadores solidarios: \"Quiero ayudar a niñas vulnerables porque yo fui una\"",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/06/30/los-ambientadores-mas-solidarios-se-venden-zaragoza-quiero-ayudar-ninas-vulnerables-porque-yo-fui-una-ellas-2031484.html",
+    "pub_date": "2026-06-30T03:00:00.000Z",
+    "summary": "Madga Moreno es la responsable del proyecto Isabella IV, cuyo principal objetivo es evitar el abandono escolar infantil femenino de niñas con necesidades en Nicaragua. Una iniciativa que surgió en Zaragoza y en la que ya participan más de una treintena de colaboradores....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/06/23/6a3a9807e09a98-36405676.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "1t6bbz6xm",
+    "title": "Un bestiario fantástico del siglo XV en el corazón del Tubo de Zaragoza",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/06/29/bestiario-fantastico-siglo-xv-corazon-tubo-zaragoza-2033246.html",
+    "pub_date": "2026-06-29T20:10:46.000Z",
+    "summary": "El edificio de la calle de Cinegio 3 tiene diseminadas en la fachada 46 figuras de animales y monstruos, talladas en madera. Nadie las ha estudiado...",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/06/29/6a42c01d377a40-12751449.r_d.1500-1000-8629.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "6nyijgttf",
+    "title": "En construcción seis chalés en parcelas de 300 metros cuadrados en la zona más lujosa de Zaragoza",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/06/29/construccion-seis-chales-parcelas-metros-cuadrados-zona-mas-lujosa-zaragoza-2033027.html",
+    "pub_date": "2026-06-29T20:00:00.000Z",
+    "summary": "La promoción se divide en dos fases que contemplan 11 viviendas en total. Se ubican en una de las avenidas más exclusivas de la capital aragonesa....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/06/29/6a42250640f501-30469545.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "8lchpqjxq",
+    "title": "Acaba la reforma de la carretera de Logroño: \"Mejora la imagen y los accesos\"",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/06/29/utebo-reforma-carretera-logrono-mejora-imagen-accesos-2033113.html",
+    "pub_date": "2026-06-29T20:00:00.000Z",
+    "summary": "El proyecto, que transforma la vieja carretera en un paseo ciudadano, pone fin a una cicatriz urbana que dificultaba históricamente el desarrollo de la localidad zaragozana....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/06/29/6a42645e4d5170-87734110.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
     "id": "td6b41mfn",
     "title": "Los acreedores del Parque de Atracciones de Zaragoza reclaman 8,3 millones",
     "original_source": "Heraldo de Aragón",
@@ -160,6 +220,16 @@
     "category": "ZARAGOZA"
   },
   {
+    "id": "zg953ygiu",
+    "title": "Aragón recoge 10 toneladas de ayuda humanitaria para Venezuela en un fin de semana: \"La respuesta ha sido impresionante\"",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/06/29/aragon-recoge-10-toneladas-ayuda-humanitaria-para-venezuela-un-fin-semana-respuesta-ha-sido-impresionante-2033033.html",
+    "pub_date": "2026-06-29T11:23:56.000Z",
+    "summary": "El domingo, 28 de junio, salieron 7 camiones desde Zaragoza con destino Madrid. Fundación Ibercaja, junto con otras entidades, como Cáritas o Cruz Roja, han habilitado cuentas para la recogida de donativos....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/06/29/6a4240049dfda5-86891270.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
     "id": "4fv84vguv",
     "title": "Futbolín gratis y menú especial: el plan de dos restaurantes de Zaragoza para seguir el Mundial",
     "original_source": "Aragón Digital",
@@ -267,6 +337,16 @@
     "pub_date": "2026-06-29T09:53:06.000Z",
     "summary": "La entidad blanquilla conocerá este martes la hoja de ruta de su regreso al fútbol profesional mientras acelera la confección de una plantilla que quiere tener al 80% para el inicio de la pretemporada...",
     "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/06/12/2026061214521164089.jpg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "ewxpvsu55",
+    "title": "Zaragoza prepara un dispositivo de ayudas económicas y el envío de enseres para los afectados por el terremoto de Venezuela",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/06/29/zaragoza-guarda-minuto-silencio-solidaridad-venezuela-terremoto-2033036.html",
+    "pub_date": "2026-06-29T09:44:53.000Z",
+    "summary": "La corporación municipal ha guardado un minuto de silencio este lunes en memoria de los fallecidos....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/06/29/6a422ab8b91698-44241728.jpeg",
     "category": "ZARAGOZA"
   },
   {
@@ -3137,46 +3217,6 @@
     "pub_date": "2026-06-20T07:00:00.000Z",
     "summary": "Según las proyecciones publicadas por el Instituto Nacional de Estadística (INE), la Comunidad aragonesa alcanzará en 2041 los 1,46 millones de habitantes, cerca de 80.000 más que en 2026...",
     "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/06/19/2026061910100025149.jpg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "1qcdzm2zu",
-    "title": "Los trabajadores de Zaragoza ya sufren las altas temperaturas: \"Son días duros\"",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/06/20/trabajadores-zaragoza-sufren-altas-temperaturas-dias-duros-2030647.html",
-    "pub_date": "2026-06-20T03:00:00.000Z",
-    "summary": "Las personas que realizan sus labores al aire libre padecen las consecuencias del calor en la capital aragonesa....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/06/19/6a3571521c90e2-85159122.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "gjd2svr91",
-    "title": "Un gigante tabacalero abre un local en Zaragoza para lanzar su dispositivo de tabaco calentado",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/economia/2026/06/20/master-craft-studio-glo-local-zaragoza-tabaco-calentado-riesgos-2028480.html",
-    "pub_date": "2026-06-20T03:00:00.000Z",
-    "summary": "British American Tobacco (BAT) reforma una antigua tienda de moda para presentar su última innovación con nicotina, dentro de la gama de alternativas a los cigarrillos sobre la que las autoridades sanitarias también alertan de sus riesgos....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/06/19/6a354cebd4b878-00960507.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "72tfmwd19",
-    "title": "Dos hermanos abren un restaurante argentino en Zaragoza: \"Habrá pastel de papas, pizzas porteñas, milanesa...\"",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/gastronomia/2026/06/20/restaurante-ciruja-argentino-zaragoza-2030281.html",
-    "pub_date": "2026-06-20T03:00:00.000Z",
-    "summary": "Los hermanos Delli Carpini inician esta nueva andadura en el distrito Universidad de la capital aragonesa dentro de unas semanas....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/06/18/6a34110ef3e384-73607460.r_d.1082-869-9600.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "xwym7o0x5",
-    "title": "Muere un hombre en un accidente laboral con una grúa en Quinto (Zaragoza)",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/06/19/muere-un-hombre-un-accidente-laboral-con-una-grua-quinto-zaragoza-2030728.html",
-    "pub_date": "2026-06-19T21:43:55.000Z",
-    "summary": "Bomberos de la DPZ ayudaron a la policía judicial a recuperar el cuerpo de la víctima....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/06/19/6a35b808688ae2-74514680.jpeg",
     "category": "ZARAGOZA"
   }
 ]
