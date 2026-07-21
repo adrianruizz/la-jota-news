@@ -1,5 +1,65 @@
 [
   {
+    "id": "2cncvllnp",
+    "title": "La música de un zaragozano sazona la retransmisión de la final del Mundial",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/07/21/musica-un-zaragozano-sazona-retransmision-final-mundial-2038714.html",
+    "pub_date": "2026-07-21T03:00:00.000Z",
+    "summary": "El artista, radicado en Los Angeles, se ha encargado del diseño sonoro y la mezcla de piezas de apertura durante las emisiones de FOX Sports en toda la contienda mundialista...",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/07/20/6a5e61f9842c97-25256910.bmp",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "sth9oh4t6",
+    "title": "La zaragozana Ira Torres gana la beca de artes plásticas y visuales Casa Velázquez",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/07/21/zaragozana-ira-torres-gana-beca-artes-plasticas-casa-velazquez-2038737.html",
+    "pub_date": "2026-07-21T03:00:00.000Z",
+    "summary": "El galardón, dotado con 25.000 euros, le permitirá desarrollar un proyecto a lo largo de un año en Madrid...",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/07/20/6a5e71d75ac2f8-66515531.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "e6j9wtia6",
+    "title": "Ara Malikian, José Sacristán, Houdini...: esto es lo que vendrá al Teatro Principal de Zaragoza a partir de septiembre",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/07/21/ara-malikian-jose-sacristan-houdini-teatro-principal-zaragoza-septiembre-2038726.html",
+    "pub_date": "2026-07-21T03:00:00.000Z",
+    "summary": "El musical humorístico en torno a la serie televisiva Friends abrirá la temporada del 3 al 13 de septiembre...",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/07/20/6a5e6b17a051b2-39627166.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "567t1qcoq",
+    "title": "Los profesores de Zaragoza acusados por la muerte de un alumno coinciden con los padres: ni acuerdo ni intento de disculpas",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/2026/07/21/profesores-zaragoza-acusados-muerte-alumno-coinciden-con-padres-ni-acuerdo-ni-disculpas-2038690.html",
+    "pub_date": "2026-07-21T03:00:00.000Z",
+    "summary": "La Audiencia Nacional juzgará finalmente en enero de 2027 por homicidio imprudente a los docentes, que se juegan hasta 4 años de cárcel....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/04/10/69d9167cbccfd2-82548062.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "gfi23pj95",
+    "title": "Giro en el Parque de Atracciones de Zaragoza: el ERTE de la plantilla podría prorrogarse a finales de septiembre",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/07/21/giro-parque-atracciones-zaragoza-erte-plantilla-podria-prorrogarse-finales-septiembre-iniciar-temporada-2038728.html",
+    "pub_date": "2026-07-21T03:00:00.000Z",
+    "summary": "El expediente temporal de regulación de empleo de los 81 empleados acaba el 31 de julio y se espera una oferta inminente del grupo Fénix Entertainment....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/03/25/69c3db9074c602-87192152.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "fovkdnvpw",
+    "title": "Adiós Mundial 2026, hola 2030: así se prepara Zaragoza para que la Romareda sea una de las sedes",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/07/21/adios-mundial-2026-hola-2030-asi-se-prepara-zaragoza-para-que-romareda-sea-una-las-sedes-2038759.html",
+    "pub_date": "2026-07-21T03:00:00.000Z",
+    "summary": "La FIFA ratificará a final de año las sedes definitivas para el Mundial de 2030 y se espera que esté Zaragoza. Es una de las \"candidaturas más sólidas\" y va por el \"camino adecuado\"...",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/07/11/6a522e6ff18e25-66287384.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
     "id": "0w37b12ax",
     "title": "Borja Iglesias hace que Zaragoza suene en la fiesta de la selección con Violadores del Verso",
     "original_source": "Heraldo de Aragón",
@@ -7,6 +67,16 @@
     "pub_date": "2026-07-20T21:15:42.000Z",
     "summary": "El punta gallego, gran animador de la plantilla durante el mes y medio de experiencia mundialista, eligió un tema de los reyes del rap en español en el escenario de la plaza de Cibeles...",
     "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/07/20/6a5e8b1d7e79c4-72517044.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "hjo5ke2od",
+    "title": "Problemas en la calle de las Armas de Zaragoza: \"Las aguas fecales corren por donde juegan los niños\"",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/07/20/problemas-calle-armas-zaragoza-aguas-fecales-corren-por-donde-juegan-los-ninos-2038160.html",
+    "pub_date": "2026-07-20T20:00:00.000Z",
+    "summary": "Los afectados de esta zona del Casco Histórico aseguran que el problema, que comenzó de forma intermitente a finales de diciembre, se ha agravado desde abril con la llegada del calor....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/07/18/6a5b4981138ba8-95931696.r_d.1071-1317-12800.jpeg",
     "category": "ZARAGOZA"
   },
   {
@@ -3037,76 +3107,6 @@
     "pub_date": "2026-07-11T07:00:31.000Z",
     "summary": "Bureta esconde en su interior uno de los rincones más curiosos de la provincia de Zaragoza...",
     "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/07/10/2026071010350162234.jpg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "w3s3fjsaa",
-    "title": "La zaragozana Elena Rivera se casa hoy: \"Me gusta algo íntimo y chiquitito\"",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/07/11/elena-rivera-casa-hoy-ejecutivo-atresmedia-boda-2036282.html",
-    "pub_date": "2026-07-11T05:17:15.000Z",
-    "summary": "La actriz aragonesa Elena Rivera contraerá matrimonio a los 33 años con David Redondo, con quien lleva 15 años de relación....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/02/13/david-redondo-y-elena-rivera.png",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "ev8egdgd8",
-    "title": "Vacaciones en el bar: de tapas por Zaragoza con turistas",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/gastronomia/2026/07/11/vacaciones-bar-tapas-turistas-zaragoza-jamon-chorreras-2036224.html",
-    "pub_date": "2026-07-11T03:00:00.000Z",
-    "summary": "Con la llegada del verano, los visitantes buscan tapas, una palabra que no necesita ninguna traducción....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/07/11/6a517978280778-43634784.r_d.838-804-10933.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "hfcj5tv1i",
-    "title": "Día clave para los 1.236 opositores a Guardia Civil que se presentan en Zaragoza: \"La labor de los Greim es supermotivante\"",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/2026/07/11/dia-clave-para-los-1-236-opositores-guardia-civil-que-se-presentan-zaragoza-labor-los-greim-es-super-motivante-2036183.html",
-    "pub_date": "2026-07-11T03:00:00.000Z",
-    "summary": "Candidatos de Aragón (906) y Cataluña (330) hacen este sábado la prueba teórica en las aulas de la Universidad San Jorge para conseguir una de las 3.240 plazas que se ofertan....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/07/10/6a511c659b2671-32706951.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "tklkipfjx",
-    "title": "Noa Noa: un caimán de verdad en un bar del centro de Zaragoza",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/gastronomia/2026/07/11/bar-noa-noa-zaragoza-caiman-verdad-2036200.html",
-    "pub_date": "2026-07-11T03:00:00.000Z",
-    "summary": "El bar polinesio estuvo durante más de dos décadas junto a la plaza de los Sitios, en centro de la capital aragonesa. Se recuerda por sus cócteles y por el reptil que descansaba en un lago....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2020/06/09/cocowen.r_d.159-222.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "7ak3owlrl",
-    "title": "Las peticiones de energía de los centros de datos cuadruplican el consumo de Aragón",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/2026/07/11/las-peticiones-energia-los-centros-datos-cuadruplican-consumo-aragon-2036190.html",
-    "pub_date": "2026-07-11T03:00:00.000Z",
-    "summary": "La presidenta de Red Eléctrica señala en Zaragoza que los proyectos tecnológicos alcanzan ya los 3.000 megavatios. Eleva a 750 millones la inversión en la red en la Comunidad en el plan 2025-2030....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/07/10/6a511d63d6afa8-58203370.bmp",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "lvvjxflww",
-    "title": "El presidente del Real Zaragoza se adjudica una obra milmillonaria en Argentina",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/2026/07/11/presidente-real-zaragoza-se-adjudica-una-obra-milmillonaria-argentina-2036225.html",
-    "pub_date": "2026-07-11T03:00:00.000Z",
-    "summary": "Jorge Mas, a través de su constructora Pumpco, se impone en la licitación del mayor gasoducto del país, valorado en más de 1.200 millones de dólares....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2025/12/18/mas-dimision-vitin.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "or8cnkv4z",
-    "title": "Dos ladrones pillan un taxi para cargar los objetos robados en un piso en Zaragoza",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/07/11/dos-ladrones-pillan-un-taxi-para-cargar-los-objetos-robados-un-piso-zaragoza-2036205.html",
-    "pub_date": "2026-07-11T03:00:00.000Z",
-    "summary": "Los procesados huyeron en un taxi con un ordenador y una consola, aunque dijeron que los objetos eran suyos y que habían ido al piso a hacer un trueque....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/03/28/69c7e321c976e3-02154066.png",
     "category": "ZARAGOZA"
   }
 ]
