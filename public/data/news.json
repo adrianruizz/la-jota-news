@@ -1,5 +1,15 @@
 [
   {
+    "id": "eaco6dlmh",
+    "title": "Un incendio calcina un piso en el barrio Oliver de Zaragoza",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/07/22/un-incendio-calcina-un-piso-barrio-oliver-zaragoza-2039310.html",
+    "pub_date": "2026-07-22T19:27:47.000Z",
+    "summary": "El fuego, que no ha dejado daños personales, ha generado una columna de humo visible desde la distancia....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/07/22/6a6119370656d7-52367557.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
     "id": "tg8dezoi4",
     "title": "Farmacias de guardia en Zaragoza este jueves, 23 de julio",
     "original_source": "Aragón Digital",
@@ -160,6 +170,16 @@
     "category": "ZARAGOZA"
   },
   {
+    "id": "p53tqpwb3",
+    "title": "Zaragoza estrena balizas luminosas en la avenida de Madrid: así funcionan",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/07/22/zaragoza-estrena-balizas-luminosas-avenida-madrid-se-ampliaran-mas-calles-asi-funcionan-2039139.html",
+    "pub_date": "2026-07-22T11:33:22.000Z",
+    "summary": "El Ayuntamiento de la capital aragonesa ha invertido 275.000 euros en instalar esta señalización en 15 cruces semafóricos....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/07/22/6a60a8f5e63ad2-54589504.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
     "id": "1cwzwv7su",
     "title": "Merlin invertirá 1.225 millones en Zaragoza para crear un centro de datos único en el mundo",
     "original_source": "Aragón Digital",
@@ -317,6 +337,16 @@
     "pub_date": "2026-07-22T09:27:02.000Z",
     "summary": "El jugador vallisoletano pasó por las filas rojillas en el último ascenso a ACB en 2010 y en las semifinales por el título cosechadas en 2019...",
     "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/07/22/2026072211234585131.jpg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "an55bhmxn",
+    "title": "Zaragoza prepara el eclipse solar: puentes cortados, coches a 30 km/h y conciertos",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/07/22/zaragoza-prepara-eclipse-solar-cortaran-trafico-los-puentes-los-coches-circularan-30-kms-h-habra-conciertos-plaza-pilar-2039093.html",
+    "pub_date": "2026-07-22T09:18:15.000Z",
+    "summary": "El Ayuntamiento reforzará los tranvías y los autobuses y pedirá a los ciudadanos que eviten desplazamientos mientras dure. Repartirá 50.000 gafas entre turistas y vecinos de la capital....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/07/22/6a608c273193a1-52023543.jpeg",
     "category": "ZARAGOZA"
   },
   {
@@ -3597,36 +3627,6 @@
     "pub_date": "2026-07-13T03:00:00.000Z",
     "summary": "El vehículo apareció abandonado en la provincia de Toledo siete días después, aunque la mercancía nunca se pudo recuperar....",
     "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/06/30/6a43a9a6bd5d61-25697993.png",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "38dgq8r48",
-    "title": "Amistad, Unión La Jota -Vadorrey y el Centro de Educación de Calle cierran las visitas del 2013",
-    "original_source": "Real Zaragoza | Web Oficial",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTzV1WjJKOHByYkJWaDdVb1B6RDRwTEdVZk1wWl9hSDhvVnRGNTVzeHNCWElYcTRKYjA3b1dweW52Umh0UXJ6YzFJTFloY3hJSjZsdXNmMFEyeHpxRk54MGY1dUIxUG5hSG5Yd2xjc3IzZjlxQ1lLcmd5YnVxY2VXYWxVa0haeXNPd0dTc1FhWFY1RWlRX2RjX2F4b1V1M1dPdkZUbDFLdVhlUkphOWRxeThBNTBnRHljMzNTTU11S1YtcnZtdE00UGVwYw?oc=5",
-    "pub_date": "2026-07-12T22:00:47.000Z",
-    "summary": "Amistad, Unión La Jota -Vadorrey y el Centro de Educación de Calle cierran las visitas del 2013  Real Zaragoza | Web Oficial...",
-    "image_url": null,
-    "category": "LA JOTA"
-  },
-  {
-    "id": "i61lelh7q",
-    "title": "Una sociedad proyecta un hotel de cuatro estrellas con una inversión de 14 millones en el centro de Zaragoza",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/07/12/inversores-proyectan-hotel-cuatro-estrellas-inversion-millones-centro-zaragoza-2035902.html",
-    "pub_date": "2026-07-12T20:00:00.000Z",
-    "summary": "Una empresa afincada en Cataluña ha presentado al Ayuntamiento un plan para resucitar un edificio abandonado y convertirlo en un establecimiento \"que resalte la arquitectura aragonesa\"....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/07/10/6a50f1189e62f3-91589169.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "p6tbupuwk",
-    "title": "Varios ciclistas rescatan a una cría de corzo en el Canal Imperial de Zaragoza",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/07/12/varios-ciclistas-rescatan-cria-corzo-canal-imperial-2036566.html",
-    "pub_date": "2026-07-12T18:41:31.000Z",
-    "summary": "Miembros del BTT Zaragoza Club Ciclista estaban realizando una ruta este sábado cuando vieron al animal....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/07/12/6a53af21459027-15010653.jpeg",
     "category": "ZARAGOZA"
   }
 ]
