@@ -1,5 +1,75 @@
 [
   {
+    "id": "jp6jug3b1",
+    "title": "El aragonés Julio Bellido deja atrás el ‘agujero’ y llena uno de los grandes teatros de Madrid: \"Llegué a vender suelos de madera\"",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/07/26/julio-bellido-actor-cantante-aragones-llena-grandes-teatros-madrid-2039474.html",
+    "pub_date": "2026-07-26T03:00:00.000Z",
+    "summary": "El polifacético artista debutó en El Plata de Zaragoza, se curtió con Paco León en el espectáculo The Hole y triunfa este verano en el Teatro Lara....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/07/23/6a6207a36b3d93-35200746.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "a0pq1rra9",
+    "title": "El zaragozano de 17 años que ya ha batido dos récords absolutos de Aragón: \"Sueño con los Juegos Olímpicos\"",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/deportes/2026/07/26/zaragozano-17-anos-que-ya-ha-batido-dos-records-absolutos-aragon-sueno-con-los-juegos-olimpicos-2039133.html",
+    "pub_date": "2026-07-26T03:00:00.000Z",
+    "summary": "Gabriel González se proclamó el pasado fin de semana campeón de Europa sub-18 de 5.000 metros marcha, convirtiéndose en el primer español de la historia en lograrlo....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/07/22/6a60a9be741d22-13534403.r_d.921-633-10000.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "uip8mqhdb",
+    "title": "La reconversión de la antigua sede de la CAI de Zaragoza encara su último año con el 80 % de las viviendas vendidas",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/2026/07/26/reconversion-antigua-sede-cai-zaragoza-encara-su-ultimo-ano-con-80-las-viviendas-vendidas-2039987.html",
+    "pub_date": "2026-07-26T03:00:00.000Z",
+    "summary": "Solo quedan cinco pisos interiores y hay lista de espera tras batir el récord de la ciudad con los seis áticos a 1,5 millones cada uno....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/07/25/6a64d4695dcea1-98812564.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "gut8lyjl2",
+    "title": "Inditex afronta el reto de abrir en Zaragoza una de las mayores tiendas de Zara para la Navidades de 2027",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/2026/07/26/inditex-afronta-reto-abrir-zaragoza-una-las-mayores-tiendas-zara-para-navidades-2027-2039965.html",
+    "pub_date": "2026-07-26T03:00:00.000Z",
+    "summary": "La constructora del grupo gallego, Goa Invest, tendrá que acometer el acondicionamiento de casi un tercio de la antigua sede de la CAI en Independencia....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/07/25/6a64aeac807ee6-83883988.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "jnxagfv6h",
+    "title": "Así es el lugar donde el Real Zaragoza se concentra y entrena en Boltaña",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/deportes/futbol/real-zaragoza/2026/07/26/asi-es-lugar-donde-real-zaragoza-se-concentra-entrena-boltana-2039932.html",
+    "pub_date": "2026-07-26T03:00:00.000Z",
+    "summary": "El Real Zaragoza realizará la segunda fase de la pretemporada hasta el próximo sábado en la localidad del Sobrarbe....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2023/06/12/boltana-bus.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "xp3wz5xus",
+    "title": "Boltaña acoge la pretemporada del Real Zaragoza",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/deportes/futbol/real-zaragoza/2026/07/26/boltana-acoge-pretemporada-real-zaragoza-2039931.html",
+    "pub_date": "2026-07-26T03:00:00.000Z",
+    "summary": "El equipo aragonés inicia hoy en el Sobrarbe la segunda fase de su prepación veraniega, con el regreso a su clásico lugra de concentración en el Pirineo....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/07/24/6a632e4d69e0a6-25553351.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "7fh3rt2ny",
+    "title": "Cámara de Zaragoza se vuelca en retener el talento aragonés: \"En Madrid tienen mejor salario, pero acaban volviendo\"",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/2026/07/26/camara-zaragoza-se-vuelca-retener-talento-aragones-madrid-tienen-mejor-salario-pero-acaban-volviendo-2040059.html",
+    "pub_date": "2026-07-26T03:00:00.000Z",
+    "summary": "La institución lanza Candidat@s Ready, una herramienta para cubrir las necesidades de plantilla de las empresas aragonesas....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2024/07/22/feria-de-empleo-de-camara-de-zaragoza.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
     "id": "15j96ss5t",
     "title": "El aragonés Eduardo Menacho, flamante campeón de España de 5.000 metros lisos",
     "original_source": "Heraldo de Aragón",
@@ -3740,63 +3810,13 @@
     "category": "ZARAGOZA"
   },
   {
-    "id": "qxo91ye8z",
-    "title": "El argentino Guido Baroli es el elegido para ser el nuevo director general del Real Zaragoza",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/deportes/futbol/real-zaragoza/2026/07/16/argentino-guido-baroli-nuevo-director-deportivo-real-zaragoza-2037562.html",
-    "pub_date": "2026-07-16T05:00:00.000Z",
-    "summary": "Tiene 39 años y el diploma FIFA en gestión de clubes, en buena medida, gracias a su trabajo en el humilde Defensa y Central. Su filosofía implantar modelos sostenidos en el tiempo....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/07/16/6a585fa9e0f2f6-84658181.png",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "dfdbx9o88",
-    "title": "Marcos Marcén: \"La tecnología y el factor humano han de ir unidos\"",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/deportes/2026/07/16/marcos-marcen-tecnologia-factor-humano-han-ir-unidos-2037443.html",
-    "pub_date": "2026-07-16T03:00:00.000Z",
-    "summary": "El preparador físico (Peñaflor de Gállego, 1991) entrenó en su día a la SD Huesca y al Real Zaragoza. Ahora acaba de abrir junto a otros dos socios, Javier Bascuas e Ignacio García, el centro ClubØ de fisioterapia y entrenamiento....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/07/15/6a57adeb8b0d21-45288022.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "107w3r123",
-    "title": "El autor de un atropello mortal en Zaragoza con un patinete se enfrenta a un año de cárcel y al pago de más de 260.000 euros",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/07/16/atropello-mortal-zaragoza-patinete-carcel-2037556.html",
-    "pub_date": "2026-07-16T03:00:00.000Z",
-    "summary": "El acusado reconoció los hechos en el juicio celebrado ayer, pero las dos aseguradoras con las que tenía contratadas sendas pólizas se niegan a asumir la responsabilidad civil....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/07/15/6a57ffc3ca8e75-68731427.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "k5fyhro2d",
-    "title": "Jóvenes inmigrantes en transición a la vida adulta: \"Estamos contra la gente mala, pero la mayoría quiere hacer una vida buena\"",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/2026/07/16/jovenes-inmigrantes-transicion-vida-adulta-estamos-contra-gente-mala-pero-mayoria-quiere-hacer-una-vida-buena-2037199.html",
-    "pub_date": "2026-07-16T03:00:00.000Z",
-    "summary": "Apoyados por la Fundación Federico Ozanam, viven en un piso tutelado y estudian para formarse y poder tener un trabajo en Zaragoza y una familia en el futuro....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/07/14/6a568347908cf2-99460410.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "lbong5wuh",
+    "id": "ig89kvgt6",
     "title": "Nuevo restaurante La Tagliatella en Zaragoza, un rincón italiano en la margen izquierda del Ebro",
     "original_source": "heraldo.es",
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb2VkYUZaYzI0aFVTX2Zpa2NSYTdFM0FlYmJrWWczVnM4VllIVjhiZzJ2SE40dGpfV3BiZlNFeDg5Q0lUb2ctcVg4TTJ2U2JBdVgtc0xRRUVsdURQcDU1OWJ1M0tXRGp2S1d4b2dBTmk4NV9mVmhPLTVhc1RUZnVZUHh3aUZjSkYwVFFHVHd0eExUN0tDRkhubjF6R3ZIM0dqckk5dkVLUXVpN1A4S181cEtjSWM4bVNiWURSU3FnTVl2WnM3b21WNEFxdklMSjdj0gHWAUFVX3lxTE9tM0FtZWRoU1kyaDdWN2ZQaXdkeERNZmpHdU0zelc2WkFXNm8zTTlpTGpYeG5McE4xRnhlQkVfY0JwbWVjdGw4WUNVdUtlNEIzaVU4RVd1NEp1Rlp0NTQxUXdsa19NZ1d6SUpDRm9peF9RZjVnWWpkVzNJRjZPWWtFYnBQRnM4TDRzNFE0Y0ZFZVNjeXlCc2JGb0dWOURDelRidzlzQmF2Y2pOZExjd3BrZGZ2T1Q1TkJyRTlndTBGX3lBQ19haFNoVk5YOUJaR1VQalh5YkE?oc=5",
-    "pub_date": "2026-07-16T03:00:00.000Z",
+    "pub_date": "2026-07-16T07:00:00.000Z",
     "summary": "Nuevo restaurante La Tagliatella en Zaragoza, un rincón italiano en la margen izquierda del Ebro  heraldo.es...",
     "image_url": null,
     "category": "MARGEN IZQUIERDA"
-  },
-  {
-    "id": "iexphf6zf",
-    "title": "Debate del estado de Zaragoza: Natalia Chueca lanza una batería de anuncios con guiños a Vox a diez meses de las elecciones",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/07/16/debate-estado-zaragoza-natalia-chueca-bateria-anuncios-guinos-vox-meses-elecciones-2037559.html",
-    "pub_date": "2026-07-16T03:00:00.000Z",
-    "summary": "La alcaldesa carga contra la corrupción del PSOE y da por cumplido el 90 % de su programa Promete un cheque bebé, vuelos a 30 destinos, un plan para recuperar el Canal y una comisaría en Delicias....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/07/15/6a5801bf2833a9-46984598.jpeg",
-    "category": "ZARAGOZA"
   }
 ]
