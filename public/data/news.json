@@ -1,5 +1,65 @@
 [
   {
+    "id": "zpra3vi3k",
+    "title": "La ocupación hotelera ronda el 80 % en las provincias de Zaragoza y Teruel por el eclipse solar",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/2026/08/08/eclipse-solar-total-ocupacion-hotelera-provincias-zaragoza-teruel-2043284.html",
+    "pub_date": "2026-08-08T03:00:00.000Z",
+    "summary": "La clientela extranjera, que en el Bajo Aragón es mayoritaria, es decisiva para la alta demanda de alojamiento. Las reservas crecen en torno a los puntos de observación....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/08/07/6a7638f13cbee7-96157302.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "jr5v12hbq",
+    "title": "La Real Sociedad B, rival este sábado del Real Zaragoza en la vuelta al Ibercaja Estadio",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/deportes/futbol/real-zaragoza/2026/08/08/real-sociedad-b-rival-este-sabado-real-zaragoza-vuelta-ibercaja-estadio-2043280.html",
+    "pub_date": "2026-08-08T03:00:00.000Z",
+    "summary": "El equipo aragonés pisa por primera vez el replantado césped de su campo provisional ante el rival de Segunda División. El amistoso es el Trofeo Ciudad de Zaragoza-Memorial Carlos Lapetra (19.30)....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/08/07/6a7637447d54f9-00960897.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "2w42ujhyb",
+    "title": "Fakir Testa, ciudadano de Paracuellos de la Ribera, triunfa en Moscú",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/08/08/fakir-testa-ciudadano-paracuellos-ribera-triunfa-moscu-2043206.html",
+    "pub_date": "2026-08-08T03:00:00.000Z",
+    "summary": "El artista madrileño radicado en la localidad vecina de Calatayud ha asombrado a los responsables del canal TNT ruso...",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/08/07/6a760d06c5f4b9-93646718.r_d.617-893-16000.jpeg",
+    "category": "RIBERA DEL EBRO"
+  },
+  {
+    "id": "jljrwqm5r",
+    "title": "Los comercios de Zaragoza también acusan las obras: \"Lo notamos mucho, hay gente mayor que no puede venir a comprar\"",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/08/08/comercios-zaragoza-tambien-acusan-obras-vivimos-resignacion-paso-tortuga-2043253.html",
+    "pub_date": "2026-08-08T03:00:00.000Z",
+    "summary": "Los trabajos de remodelación en las calles de la capital aragonesa se intensifican durante el verano y muchos establecimientos lamentan sus consecuencias....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/08/07/6a7619d60b32a2-12693893.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "1frdbkvuv",
+    "title": "Las obras en Zaragoza suben el ritmo en agosto con más de 30 calles afectadas: \"Lo vivimos con resignación\"",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/08/08/zaragoza-intensifica-obras-durante-verano-agosto-afectaran-30-calles-principales-tramos-2043191.html",
+    "pub_date": "2026-08-08T03:00:00.000Z",
+    "summary": "Además de las remodelaciones en la avenida de Valencia, el Coso o el entorno del Portillo, se suman ahora las vías correspondientes a la Operación Asfalto....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/08/07/6a76170b59c4f0-69634187.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "g0tg1bka1",
+    "title": "Nayim, Bancalero y otros ceutíes con vínculos con Aragón hablan sobre la crisis migratoria en Ceuta: \"Fue caótico. Necesitamos ayuda\"",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/2026/08/08/nayim-bancalero-otros-ceuties-con-vinculos-con-aragon-estaba-ceuta-ese-dia-fue-algo-caotico-necesitamos-ayuda-2043229.html",
+    "pub_date": "2026-08-08T03:00:00.000Z",
+    "summary": "El exzaragocista coincide con el anterior consejero de Sanidad aragonés y otros ceutíes con lazos con Zaragoza en que todavía no ha vuelto la normalidad a la ciudad autónoma, tras la entrada masiva de migrantes de hace una semana....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/08/07/6a761add047c84-15592877.r_d.431-159-30189.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
     "id": "xr5xo2lzs",
     "title": "El debut en casa del Real Zaragoza en Primera RFEF, contra el Antequera: sábado por la noche",
     "original_source": "Heraldo de Aragón",
@@ -7,6 +67,26 @@
     "pub_date": "2026-08-07T20:19:17.000Z",
     "summary": "La Real Federación Española de Fútbol hizo públicos los horarios y fechas de la jornada 2 de liga en la que los zaragocistas se estrenarán en un partido histórico como locales ante el Antequera. Será el 5 de septiembre a las 21.30....",
     "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/08/07/6a763db22c5667-75190905.r_d.975-461-15894.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "3v4i4i7d3",
+    "title": "Jena Montecanal y sus 25 años creciendo junto al barrio",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/gastronomia/2026/08/07/jena-montecanal-sus-25-anos-creciendo-junto-barrio-2043181.html",
+    "pub_date": "2026-08-07T20:00:00.000Z",
+    "summary": "La familia Irigoyen ha convertido este restaurante en un referente de la hostelería zaragozana...",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/08/07/6a75fc6f424f25-60376901.r_d.1258-778-7792.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "dedkvlyy5",
+    "title": "El peaje de la autopista más cara de España entre Zaragoza y Bilbao caerá tras el verano",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/motor/2026/08/07/autopista-ap68-zaragoza-bilbao-bajara-precio-noviembre-2043097.html",
+    "pub_date": "2026-08-07T20:00:00.000Z",
+    "summary": "Circular por la AP-68 será gratis a su paso por Aragón y La Rioja, pero no en el tramo del País Vasco, que rebajará su coste un 70% en la provincia de Álava y un 20% en la de Vizcaya....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/08/07/6a75b96946b304-19894562.jpeg",
     "category": "ZARAGOZA"
   },
   {
@@ -3237,46 +3317,6 @@
     "pub_date": "2026-07-29T09:01:00.000Z",
     "summary": "Pastelería Fantoba es un clásico de la repostería aragonesa que lleva endulzando generaciones desde el año 1856...",
     "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/07/28/2026072814394138895.jpg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "0g166r1oe",
-    "title": "Condenado un menor por masturbarse delante de una educadora de su centro de acogida en Zaragoza",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/07/29/condenado-un-menor-por-masturbarse-delante-una-educadora-su-centro-acogida-zaragoza-2040821.html",
-    "pub_date": "2026-07-29T03:00:00.000Z",
-    "summary": "El adolescente había protagonizado cinco días antes otro incidente violento con varios trabajadores del recurso....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2022/12/09/audiencia-provincial-de-zaragoza.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "2o8ndwy4d",
-    "title": "Objetivos y funciones de la Agencia Estatal de Salud Pública de Zaragoza",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/2026/07/29/asi-sera-agencia-estatal-salud-publica-que-se-instalara-zaragoza-objetivos-funciones-2040791.html",
-    "pub_date": "2026-07-29T03:00:00.000Z",
-    "summary": "Este organismo, adscrito al Ministerio de Sanidad, nace para dar una \"respuesta rápida y coordinada\" frente a amenazas y riesgos para la salud, tras la experiencia de la pandemia de covid-19....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/03/09/laboratorio-de-salud-publica-del-gobierno-aragones-que-funciona-en-zaragoza.r_d.575-390.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "tswegh049",
-    "title": "Alicia Álvarez, ginecóloga: \"La prevención es nuestra mejor arma\"",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/salud/2026/07/29/alicia-alvarez-ginecologa-zaragoza-me-senti-muy-vulnerable-primera-exploracion-ginecologica-2039626.html",
-    "pub_date": "2026-07-29T03:00:00.000Z",
-    "summary": "Tras ser madre, Álvarez (Zaragoza, 1992) acaba de reincorporarse a su consulta de Ginecología en el Hospital Viamed Montecanal tras una dilatada experiencia en la sanidad pública aragonesa....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/07/24/6a628f69b57187-06092912.r_d.698-817-14404.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "at9iawacj",
-    "title": "Una empresa de Bilbao hará 15 chalés con piscina a 10 minutos de Zaragoza",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/07/29/empresa-bilbao-construira-15-chales-piscina-10-minutos-zaragoza-2040699.html",
-    "pub_date": "2026-07-29T03:00:00.000Z",
-    "summary": "Bilkio, una firma vasca de gestión inmobiliaria, aterriza en Aragón con Residencial Movera, la primera promoción de obra nueva que se levanta en el barrio en varios años....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/07/28/6a68aba9307c63-71037277.png",
     "category": "ZARAGOZA"
   }
 ]
