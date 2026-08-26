@@ -1,5 +1,55 @@
 [
   {
+    "id": "3jzoifo0q",
+    "title": "Farmacias de guardia en Zaragoza este jueves, 27 de agosto",
+    "original_source": "Aragón Digital",
+    "link": "https://www.aragondigital.es/articulo/zaragoza/farmacias-guardia-zaragoza-jueves-27-agosto/202608261900401003357.html",
+    "pub_date": "2026-08-26T17:00:40.000Z",
+    "summary": "Esta es la lista detallada de las farmacias de guardia disponibles este jueves, 27 de agosto...",
+    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2025/01/28/2025012809545873611.jpg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "e5yqsh5i0",
+    "title": "El apocalipsis zombi llega a Zaragoza: el libro de sátira social con muertos vivientes ambientado en la capital aragonesa",
+    "original_source": "Aragón Digital",
+    "link": "https://www.aragondigital.es/articulo/cultura/apocalipsis-zombi-llega-zaragoza-libro-satira-social-muertos-vivientes/202608261850511004021.html",
+    "pub_date": "2026-08-26T16:50:51.000Z",
+    "summary": "El libro \"El apocalipsis como nunca lo habías visto\" está formado por 32 relatos cortos...",
+    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/08/26/2026082618484429245.jpg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "otm08h1f6",
+    "title": "Cuenta atrás para la reforma de la Biblioteca Santa Orosia de Las Delicias en Zaragoza: así quedará",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/08/26/cuenta-atras-para-reforma-biblioteca-santa-orosia-las-delicias-zaragoza-asi-quedara-2047411.html",
+    "pub_date": "2026-08-26T16:49:43.000Z",
+    "summary": "El Ayuntamiento destinará 680.000 euros a las obras, que tendrán un plazo de ejecución de nueve meses....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/04/07/69d4a33f88efd6-24602131.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "13ywx4w40",
+    "title": "Oficial: Rubén Iranzo ficha por el Real Zaragoza para las tres próximas temporadas",
+    "original_source": "Aragón Digital",
+    "link": "https://www.aragondigital.es/articulo/real-zaragoza/oficial-ruben-iranzo-zaragoza/202608261824451004016.html",
+    "pub_date": "2026-08-26T16:24:45.000Z",
+    "summary": "El comunicado del Real Zaragoza resalta que puede desenvolverse como central y como lateral derecho, donde solo está Gabilondo....",
+    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/08/26/2026082619471333626.jpg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "f30vrdua6",
+    "title": "La cueva escondida en un pueblo de Zaragoza de apenas 50 habitantes que se adentra bajo tierra",
+    "original_source": "Aragón Digital",
+    "link": "https://www.aragondigital.es/articulo/zaragoza-provincia/cueva-escondida-pueblo-zaragoza-apenas-50-habitantes-que-adentra-tierra/202608261800001003838.html",
+    "pub_date": "2026-08-26T16:00:00.000Z",
+    "summary": "En Aldehuela de Liestos, un pequeño pueblo de Campo de Daroca, uno de sus mayores tesoros permanece oculto bajo tierra...",
+    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/08/26/2026082611321516589.jpg",
+    "category": "ZARAGOZA"
+  },
+  {
     "id": "svk19kdry",
     "title": "El Real Zaragoza cierra, por fin, la llegada del central Rubén Iranzo",
     "original_source": "Heraldo de Aragón",
@@ -7,6 +57,46 @@
     "pub_date": "2026-08-26T15:54:03.000Z",
     "summary": "Tras casi dos semanas de espera, el club firma al esperado central, que ya está en Zaragoza. Tendrá tres entrenamientos para ponerse a punto y jugar en Tarragona....",
     "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/08/11/6a7b0e9b7105c6-15058493.png",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "zcxolru5g",
+    "title": "De dependiente de tienda a jefe de obra: seis ofertas de empleo en Aragón que llegan en la recta final de agosto",
+    "original_source": "Aragón Digital",
+    "link": "https://www.aragondigital.es/articulo/economia/dependiente-tienda-jefe-obra-seis-ofertas-empleo-aragon-que-llegan-recta-final-agosto/202608261750001003973.html",
+    "pub_date": "2026-08-26T15:50:00.000Z",
+    "summary": "Se buscan perfiles de distintos sectores en Zaragoza, Huesca y Teruel, con vacantes activas que van desde el transporte y la logística hasta el comercio y la seguridad en obra civil...",
+    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/08/26/2026082617254799011.jpg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "abwlsm5fh",
+    "title": "Charla de los árbitros al Real Zaragoza sobre el reglamento en Primera RFEF",
+    "original_source": "Aragón Digital",
+    "link": "https://www.aragondigital.es/articulo/real-zaragoza/charla-arbitros-real-zaragoza/202608261719071003970.html",
+    "pub_date": "2026-08-26T15:19:07.000Z",
+    "summary": "El Real Zaragoza arranca su camino en tercera este domingo frente al Nástic de Tarragona....",
+    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/07/21/2026072113144531147.jpg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "ob2yr8wao",
+    "title": "\"Sold out\" de abonos del Vive Latino: el festival se acerca al lleno absoluto en Zaragoza",
+    "original_source": "Aragón Digital",
+    "link": "https://www.aragondigital.es/articulo/cultura/sold-out-abonos-vive-latino-festival-acerca-lleno-absoluto-zaragoza/202608261711341003934.html",
+    "pub_date": "2026-08-26T15:11:34.000Z",
+    "summary": "Unas 45.000 personas disfrutarán de conciertos y gastronomía los próximos 4 y 5 de septiembre...",
+    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/08/26/2026082617110911503.jpg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "rhv7cgo3z",
+    "title": "La radioterapia llegará al nuevo Hospital de Teruel durante el primer trimestre de 2027",
+    "original_source": "Aragón Digital",
+    "link": "https://www.aragondigital.es/articulo/sanidad/radioterapia-llegara-nuevo-hospital-teruel-primer-trimestre-2027/202608261539021003928.html",
+    "pub_date": "2026-08-26T13:39:02.000Z",
+    "summary": "La instalación evitará desplazamientos a Zaragoza de los pacientes oncológicos de la provincia turolense para las sesiones de radioterapia...",
+    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/08/26/2026082615375359087.jpg",
     "category": "ZARAGOZA"
   },
   {
@@ -3657,56 +3747,6 @@
     "pub_date": "2026-08-17T03:00:00.000Z",
     "summary": "Durante los episodios de altas temperaturas, con las entradas más baratas, se han registrado más de 270.000 accesos. El pasado mes de julio se sitúa como uno de los meses con más afluencia de la historia....",
     "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/07/04/6a490762d02ad5-57172734.r_d.961-1010-10000.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "1di5p69x7",
-    "title": "El crónico problema de la falta de gol de los '9' del Real Zaragoza: Espiau no rompe el hechizo",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/deportes/futbol/real-zaragoza/2026/08/16/cronico-problema-falta-gol-los-9-real-zaragoza-espiau-no-rompe-hechizo-2045183.html",
-    "pub_date": "2026-08-16T19:45:30.000Z",
-    "summary": "Mientras Lalo Arantegui vive los últimos 14 días para construir una delantera nueva con uno o dos fichajes perentorios, el único ariete ya fichado no ha logrado estrenarse en seis partidos de pretemporada....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/08/16/6a820f493f0f45-05821514.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "p4s3h77wx",
-    "title": "El militar fallecido es aragonés y originario de La Almunia de Doña Godina",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/2026/08/16/muere-un-militar-ume-un-accidente-durante-extincion-incendio-riglos-2045179.html",
-    "pub_date": "2026-08-16T17:38:48.000Z",
-    "summary": "El camión en el que viajaban ha volcado por un barranco cerca de la localidad de Atarés. El herido más grave ha sido trasladado al Hospital Miguel Servet de Zaragoza y está fuera de peligro....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/08/16/6a8208dd42e252-70307311.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "29dgchn4p",
-    "title": "La nueva aerolínea Fly2Galicia anuncia una ruta entre Santiago y Zaragoza",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/2026/08/16/nueva-aerolinea-fly2galicia-anuncia-una-ruta-aerea-entre-santiago-compostela-zaragoza-2045175.html",
-    "pub_date": "2026-08-16T17:34:30.000Z",
-    "summary": "La compañía aérea ha informado en sus redes sociales que volará a ocho destinos diferentes, con 17 frecuencias semanales....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/03/14/avion.r_d.2657-695.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "gi5l9g211",
-    "title": "Farmacias de guardia en Zaragoza este lunes, 17 de agosto",
-    "original_source": "Aragón Digital",
-    "link": "https://www.aragondigital.es/articulo/zaragoza/farmacias-guardia-zaragoza-lunes-17-agosto/202608161900401001010.html",
-    "pub_date": "2026-08-16T17:00:40.000Z",
-    "summary": "Esta es la lista detallada de las farmacias de guardia disponibles este lunes, 17 de agosto...",
-    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2024/12/31/2024123109304566151.jpg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "h0991s41n",
-    "title": "Westerveld pone los primeros brillos a la nueva portería del Real Zaragoza",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/deportes/futbol/real-zaragoza/2026/08/16/westerveld-pone-los-primeros-brillos-nueva-porteria-real-zaragoza-2045154.html",
-    "pub_date": "2026-08-16T16:53:01.000Z",
-    "summary": "La sobresaliente actuación del joven guardameta neerlandés en Villarreal este sábado, impecable en media docena de paradas decisivas de gol y con más soltura con los pies que otros días, alivia las dudas....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/08/16/6a81d3fef2b311-25327645.r_d.800-289-19835.jpeg",
     "category": "ZARAGOZA"
   }
 ]
