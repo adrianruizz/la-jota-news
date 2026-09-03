@@ -1,5 +1,35 @@
 [
   {
+    "id": "xkpco14sw",
+    "title": "El gastrobar 17 punto 10 de Zaragoza y la década que lo ha hecho un templo culinario",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/gastronomia/2026/09/03/gastrobar-17punto10-antiguo-pancetas-zaragoza-2048995.html",
+    "pub_date": "2026-09-03T03:00:00.000Z",
+    "summary": "Rai Elcacho y Cati Sandulescu han hecho de su local y de su propuesta gastronómica un escenario de peregrinaje en Zaragoza....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/02/6a9831c0c7a059-70873377.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "72mg46khu",
+    "title": "Zaragoza da el visto bueno a la ordenanza que castigará a los incívicos: de 50 a 3.000 € de multa por estas conductas",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/09/03/zaragoza-castigara-los-incivicos-con-multas-hasta-3-000-euros-norma-que-se-vota-hoy-autoriza-actuar-contra-ocupacion-2049124.html",
+    "pub_date": "2026-09-03T03:00:00.000Z",
+    "summary": "Incorpora en las competencias municipales la recuperación de los inmuebles. Vox y PSOE piden cambios en el veto al burka...",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/08/26/6a8f49c37b47c8-22645449.png",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "1w82e4xry",
+    "title": "Iker Vadillo, la esperanza del Real Zaragoza que costó solo 2.000 euros",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/deportes/futbol/real-zaragoza/2026/09/03/iker-vadillo-esperanza-real-zaragoza-que-costo-2-000-euros-2049066.html",
+    "pub_date": "2026-09-03T03:00:00.000Z",
+    "summary": "El Robres dejó salir al Deportivo Aragón en febrero pasado al delantero y se quedó sin ‘play off’ de ascenso, dando vía libre al talento que acaba de saltar al primer equipo. Recibió esta pequeña compensación económica...",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/09/02/6a98619b506c39-25292557.r_d.430-209-25397.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
     "id": "3dcafi2ts",
     "title": "Jorge Azcón, sobre la crisis de Ceuta: \"Alguien debería asumir responsabilidades\"",
     "original_source": "Heraldo de Aragón",
@@ -7,6 +37,36 @@
     "pub_date": "2026-09-02T20:07:42.000Z",
     "summary": "Unas 32.500 personas, según los organizadores, se han manifestado en la plaza del Pilar de Zaragoza....",
     "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/02/6a986c1fcee884-48046700.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "irbqz4jnr",
+    "title": "El bocatín que triunfa en un bar de carretera de toda la vida a cinco minutos de Zaragoza",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/gastronomia/2026/09/02/cafeteria-carretera-huesca-cid-triunfa-bocatines-madrugadores-viajeros-2048693.html",
+    "pub_date": "2026-09-02T20:00:00.000Z",
+    "summary": "Los más de 400 clásicos de bacon, queso y huevo que salen de la cocina de la cafetería El Cid atraen a una clientela entregada y fiel de madrugadores y viajeros desde hace 40 años....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/01/6a96c01035c1b4-88000256.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "mh9roi0ds",
+    "title": "Andrés Pardo, jubilado de Zaragoza con más de 43 años cotizados y penalizado: \"Fastidia que algo que es tuyo no lo puedas cobrar\"",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/economia/2026/09/02/jubilado-zaragoza-asjubi-penalizado-fastidia-que-algo-que-es-tuyo-no-puedes-cobrar-2048870.html",
+    "pub_date": "2026-09-02T20:00:00.000Z",
+    "summary": "Asjubi40 lleva una década pidiendo que se eliminen los coeficientes reductores por retirarse antes de la edad legal y presenta este jueves 180.000 firmas en el Congreso....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/02/6a98665beb5e46-38256572.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "5qhsbluqa",
+    "title": "La Policía detiene al presunto autor del homicidio de un vecino de Zaragoza por quemar su cas en Juslibol",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/09/02/detenido-crimen-hombre-incendio-casa-cueva-juslibol-zaragoza-2048975.html",
+    "pub_date": "2026-09-02T20:00:00.000Z",
+    "summary": "El sospechoso del crimen se encuentra en la cárcel de Zuera desde el pasado 22 de agosto. La presencia de dos focos de fuego distintos orientó la investigación desde el principio como un posible homicidio...",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/02/6a98151ccc44b7-76844894.jpeg",
     "category": "ZARAGOZA"
   },
   {
@@ -3157,66 +3217,6 @@
     "pub_date": "2026-08-24T07:31:53.000Z",
     "summary": "Su familia pretendía trasladarla fuera de España pese a su expresa negativa....",
     "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/08/07/6a760aeb535398-74539027.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "668gfnitl",
-    "title": "Roban en Zaragoza mil euros a un menor y al día siguiente pegan y amenazan de muerte a su tía",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/08/24/roban-zaragoza-mil-euros-un-menor-dia-siguiente-pegan-amenazan-muerte-su-tia-2046746.html",
-    "pub_date": "2026-08-24T03:00:00.000Z",
-    "summary": "El altercado tuvo lugar en el barrio Oliver y se saldó con tres detenidos....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/08/23/6a8b31af2c3d26-70975806.png",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "hn69dru9i",
-    "title": "Una limpieza con pala, guantes y azada para evitar el olvido de una joya mudéjar de un pueblo de Zaragoza",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/08/24/limpieza-evitar-olvido-joya-mudejar-despoblado-villanueva-jalon-chodes-zaragoza-2044221.html",
-    "pub_date": "2026-08-24T03:00:00.000Z",
-    "summary": "Antonio Maestro suma dos meses retirando escombro y fiemo del interior de la iglesia del despoblado de Villanueva de Jalón, cuya torre es del estilo reconocido por la Unesco....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/08/12/6a7c4b9b6e11a9-50754952.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "2kk2y7lxy",
-    "title": "De robos y trapicheos a ataques con machete, así crecen dentro de la banda los cachorros de los DDP de Zaragoza",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/08/24/robos-trapicheos-ataques-con-machete-asi-crecen-dentro-banda-los-cachorros-los-ddp-zaragoza-2046722.html",
-    "pub_date": "2026-08-24T03:00:00.000Z",
-    "summary": "Tras la operación de junio que descabezó la banda, la Policía detuvo en las semanas posteriores a nueve adolescentes vinculados a la organización. Cinco ya se encontraban en el Centro de Menores de Juslibol....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/06/25/6a3d79a85c9a91-11312807.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "5ydf62uu3",
-    "title": "El Real Zaragoza deja atrás una pretemporada difícil que se le queda corta",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/deportes/futbol/real-zaragoza/2026/08/24/real-zaragoza-deja-atras-una-pretemporada-dificil-que-se-le-queda-corta-2046741.html",
-    "pub_date": "2026-08-24T03:00:00.000Z",
-    "summary": "Ibai Gómez, técnico nuevo, ha trabajado con un equipo heterogéneo, lleno de chicos del filial, en reconstrucción casi total, incompleto aún, al que le faltan varios hervores...",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/08/23/6a8b3454c7cf64-70943536.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "hy2uxpnzp",
-    "title": "El servicio de quejas y sugerencias de Zaragoza apunta a récord en 2026 con más de 38.000 peticiones: la suciedad es lo que más preocupa",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/08/24/servicio-quejas-sugerencias-zaragoza-apunta-record-2026-registrado-peticiones-2045840.html",
-    "pub_date": "2026-08-24T03:00:00.000Z",
-    "summary": "Durante todo 2025 se recibieron 45.823 avisos, tan solo 7.500 más que en prácticamente los ocho primeros meses de este año. La limpieza de la ciudad, los parques y el estado de las calles centran las quejas de los ciudadanos....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/08/23/6a8acb4cf21906-33454130.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "jshpedp5b",
-    "title": "Stellantis retoma la producción en Zaragoza con más trabajadores y el reto de fabricar coches chinos",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/economia/2026/08/24/stellantis-retoma-produccion-con-mas-trabajadores-reto-fabricar-automoviles-chinos-2046728.html",
-    "pub_date": "2026-08-24T03:00:00.000Z",
-    "summary": "Más de 400 personas se han sumado a la compañía en los últimos meses para afrontar la producción de nuevos modelos....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/08/23/6a8b1dda3fbb56-89579169.jpeg",
     "category": "ZARAGOZA"
   }
 ]
