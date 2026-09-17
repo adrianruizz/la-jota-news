@@ -1,5 +1,75 @@
 [
   {
+    "id": "orssels05",
+    "title": "El restaurante Rústicco de Zaragoza, primera embajada de Marqués de Riscal",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/gastronomia/2026/09/17/restaurante-rusticco-zaragoza-primera-embajada-bodega-marques-riscal-espana-2052361.html",
+    "pub_date": "2026-09-17T03:00:00.000Z",
+    "summary": "Con este título se valora su conocimiento de los vinos y su amplia oferta, que en muchos casos se puede disfrutar por copas....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/16/6aaac128bcd428-27091159.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "wsn5yximt",
+    "title": "Miguel Ángel Tapia se jubiló en julio y la plaza de director artístico del Auditorio de Zaragoza queda vacía",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/09/17/miguel-angel-tapia-jubilo-julio-plaza-director-artistico-auditorio-queda-vacia-2052466.html",
+    "pub_date": "2026-09-17T03:00:00.000Z",
+    "summary": "Vanesa García Simón sigue como coordinadora artística del centro y Zaragoza Cultural supervisa el día a día...",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/16/6aaafff52f6285-93933869.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "y813vrszj",
+    "title": "Las Food Trucks de Zaragoza para las Fiestas del Pilar llegan con novedades: cuatro nuevos puestos y 3.000 plazas",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/fiestas-del-pilar/2026/09/17/novedades-las-food-trucks-zaragoza-para-las-fiestas-pilar-2052431.html",
+    "pub_date": "2026-09-17T03:00:00.000Z",
+    "summary": "Desde la organización explican que habrá un mayor número de mesas para garantizar la comodidad de los asistentes....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2025/10/03/vermut-party-en-las-food-trucks-de-las-fiestas-del-pilar-de-zaragoza-12.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "wrnbqqq6f",
+    "title": "Los vecinos del barrio de Valdespartera de Zaragoza reclaman la recuperación de un histórico espacio",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/09/17/vecinos-barrio-valdespartera-zaragoza-recuperar-pista-potrero-futbol-sala-2051883.html",
+    "pub_date": "2026-09-17T03:00:00.000Z",
+    "summary": "Desde hace unos meses, el potrero se ha quedado sin porterías. Desde el Ayuntamiento de Zaragoza aseguran que se retiraron por motivos de seguridad y que ya están en marcha las actuaciones para \"mejorar esta instalación deportiva y que los vecinos dispongan de un equipamiento digno y seguro\"....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/15/6aa8e11f3f9109-22731929.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "2zuul8yzj",
+    "title": "¿Cuánto valen 11 toneladas de cobre? La cifra detrás del robo en una empresa de Zaragoza",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/09/17/cuanto-valen-11-toneladas-cobre-cifra-detras-robo-empresa-zaragoza-2052278.html",
+    "pub_date": "2026-09-17T03:00:00.000Z",
+    "summary": "La Guardia Civil detuvo a principios de mes en el marco de la operación Cubrik a dos hombres como presuntos autores del hurto continuado de cobre del interior de una empresa ubicada en Figueruelas....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/16/6aaa857787d2f8-02809641.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "glsn3l1eq",
+    "title": "New Dallas, la nueva versión de uno de los bares más populares de Zaragoza",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/gastronomia/2026/09/16/bar-new-dallas-calle-dato-zaragoza-2052255.html",
+    "pub_date": "2026-09-16T20:19:28.000Z",
+    "summary": "El local mantiene los almuerzos, pero se ha cambiado completamente la carta y, tras la reforma, tiene un aire más cosmopolita....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/16/6aaa7d201a6f24-40232057.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "x0czg0vep",
+    "title": "De jugar con cangrejeras a ser el equipo de moda: la conexión entre Zaragoza y un club de fútbol de Senegal",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/deportes/2026/09/16/equipo-futbol-senegal-regalo-material-deportivo-100-pies-eventos-zaragoza-2052202.html",
+    "pub_date": "2026-09-16T20:00:00.000Z",
+    "summary": "El ASC Douye Dago de Kabakoto cuenta desde hace años con equipaciones y material deportivo facilitados por la asociación 100 Pies Eventos de Zaragoza....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/09/16/6aaa7160594d44-39292579.r_d.851-823-12000.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
     "id": "p5737gr5c",
     "title": "Los cabezudos de los barrios de Zaragoza protestan por su veto durante las Fiestas del Pilar",
     "original_source": "Aragón Digital",
@@ -3527,66 +3597,6 @@
     "pub_date": "2026-09-07T05:50:23.000Z",
     "summary": "Del 8 al 10 de septiembre en su local del número 5 de la calle Mefisto se podrán encontrar prendas descatalogadas o nunca comercializadas de la firma con rebaja de hasta el 60%....",
     "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2025/05/09/la-nueva-tienda-de-la-firma-laganini-en-zaragoza-2.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "uffz1wb93",
-    "title": "Comienzan en Muel unas fiestas por todo lo alto",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/branded/fiestas-por-todo-alto-muel-2047505-5.html",
-    "pub_date": "2026-09-07T03:00:00.000Z",
-    "summary": "Desde hoy y hasta el domingo 13, la localidad zaragozana celebra las fiestas en honor de su patrona, la Virgen de la Fuente....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/08/27/6a8fe15f1ffff3-32307210.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "96zxn7es8",
-    "title": "La redención de Edu Espiau en el Real Zaragoza",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/deportes/futbol/real-zaragoza/2026/09/07/redencion-edu-espiau-real-zaragoza-2049905.html",
-    "pub_date": "2026-09-07T03:00:00.000Z",
-    "summary": "El delantero, tras una pretemporada irregular, aprovechó su estreno en liga para firmar el único gol del Real Zaragoza en 180 minutos....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/05/6a9c89e5ef3428-63211757.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "i8r1y9rcr",
-    "title": "Sangalli se sale y pide paso en el Real Zaragoza de Ibai Gómez: \"Es un jugador de otro nivel\"",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/deportes/futbol/real-zaragoza/2026/09/07/sangalli-se-sale-pide-paso-real-zaragoza-ibai-gomez-es-un-jugador-otro-nivel-2049912.html",
-    "pub_date": "2026-09-07T03:00:00.000Z",
-    "summary": "Menos de una semana después de llegar al club, el lateral vasco cuajó un extraordinario debut y fue fundamental en la victoria frente al Antequera....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/06/6a9db3781c7357-09675574.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "trpssylud",
-    "title": "Seis grandes momentos musicales del Vive Latino 2026 de Zaragoza para el recuerdo",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/09/07/seis-grandes-momentos-musicales-vive-latino-2026-zaragoza-para-recuerdo-2049923.html",
-    "pub_date": "2026-09-07T03:00:00.000Z",
-    "summary": "La quinta edición del festival iberoamericano de cultura musical dejó en el recinto de la Expo varios instantes únicos....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/06/6a9dae43a8db95-38515834.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "m9ijsqj4v",
-    "title": "Nacho Royo: \"Estamos felices y queremos que el Vive Latino se perpetúe en Zaragoza\"",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/09/07/nacho-royo-estamos-felices-queremos-que-vive-latino-se-perpetue-zaragoza-2049928.html",
-    "pub_date": "2026-09-07T03:00:00.000Z",
-    "summary": "La quinta edición del festival concluyó este sábado 5 de septiembre con un lleno absoluto del Recinto Expo de Ranillas...",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/06/6a9db20c6a1352-42784727.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "gsxb1klf5",
-    "title": "Zaragoza se afianza como ciudad de congresos con 14 grandes eventos en 2026: \"Las sensaciones son positivas\"",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/09/07/zaragoza-recibido-14-grandes-congresos-mas-500-asistentes-2026-sensaciones-muy-positivas-2047446.html",
-    "pub_date": "2026-09-07T03:00:00.000Z",
-    "summary": "El año pasado los encuentros generaron un impacto económico de 94 millones de euros, con 28 grandes citas celebradas....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/08/26/6a8f2712b47249-32983449.jpeg",
     "category": "ZARAGOZA"
   }
 ]
