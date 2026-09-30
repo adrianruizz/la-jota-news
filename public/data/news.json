@@ -1,5 +1,185 @@
 [
   {
+    "id": "w4xqwfo5u",
+    "title": "Manuel Jabois: \"Siempre espero la catástrofe: tener bajas expectativas da alegrías\"",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/09/30/manuel-jabois-siempre-espero-catastrofe-tener-bajas-expectativas-da-mas-alegrias-2055621.html",
+    "pub_date": "2026-09-30T03:00:00.000Z",
+    "summary": "El escritor gallego presentó ayer en Zaragoza La víspera, una novela que aborda la compleja relación entre una madre y un hijo....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/29/6abbd096951ea6-67031812.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "qtsnb6fvm",
+    "title": "El valenciano que se enamoró de las grullas en un pueblo de Zaragoza",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/09/30/valenciano-enamoro-grullas-used-pueblo-zaragoza-abrir-tienda-2052721.html",
+    "pub_date": "2026-09-30T03:00:00.000Z",
+    "summary": "Sergio Jurado dejó atrás el trabajo en una multinacional para poner en marcha, junto a Cristian Pomares, un comercio que quiere convertirse en algo más que una tienda de pueblo....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/21/6ab0ebddabc722-62496337.png",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "j0y0q7aqi",
+    "title": "Comienzan los paros en la limpieza pública de Zaragoza",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/09/30/comienzan-los-paros-limpieza-publica-zaragoza-con-un-40-servicios-minimos-2055554.html",
+    "pub_date": "2026-09-30T03:00:00.000Z",
+    "summary": "Lo sindicatos esperan que la participación supere el 80 %. La empresa seguirá negociando hoy para tratar de evitar la huelga durante las Fiestas del Pilar....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/04/28/69f0bb5616f293-46151834.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "uyim2t3ug",
+    "title": "Miguel Pardeza, sobre el último Zaragoza-CD Teruel oficial: \"Tenía morbo\"",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/deportes/futbol/real-zaragoza/2026/09/30/miguel-pardeza-ultimo-real-zaragoza-teruel-oficial-habia-mucha-diferencia-2055470.html",
+    "pub_date": "2026-09-30T03:00:00.000Z",
+    "summary": "El exzaragocista rememora aquella eliminatoria de Copa del Rey, un torneo en el equipo aragonés acabó convirtiéndose en flamante campeón. Ambos equipos se enfrentan el próximo domingo....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/28/6aba485a938ce7-02818527.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "tdhjdo6og",
+    "title": "El joven árbitro agredido sufrió puñetazos en la sien con riesgo vital",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/deportes/futbol/2026/09/30/joven-arbitro-agredido-sufrio-punetazos-sien-con-riesgo-vital-2055709.html",
+    "pub_date": "2026-09-30T03:00:00.000Z",
+    "summary": "El colegiado, de 19 años, aportó la documentación de la agresión sufrida el pasado sábado en Pina de Ebro en el encuentro de juveniles ante el CD Unión...",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/29/6abc0162e2c391-37806694.jpeg",
+    "category": "RIBERA DEL EBRO"
+  },
+  {
+    "id": "5h53gsl4r",
+    "title": "Una residente en un centro de mayores de Zaragoza: \"Hasta que te adaptas cuesta porque no encuentras tu ambiente\"",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/2026/09/30/una-residente-un-centro-mayores-hasta-que-te-adaptas-cuesta-porque-no-encuentras-tu-ambiente-2054949.html",
+    "pub_date": "2026-09-30T03:00:00.000Z",
+    "summary": "Lo dice Begoña Tello, nacida en Soria pero que ha vivido muchos años en Zuera y que lleva año y medio, desde mayo de 2025 en la residencia de mayores Ibercaja Rey Ardid de Juslibol...",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/26/6ab7faa0109651-82143125.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "x9wqkhlbs",
+    "title": "La vida en una residencia de mayores: \"Si pides una pública te mueres antes de que te la den\"",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/aragon/2026/09/30/un-residente-un-centro-mayores-si-pides-una-residencia-publica-te-mueres-antes-que-te-den-2054739.html",
+    "pub_date": "2026-09-30T03:00:00.000Z",
+    "summary": "El zaragozano Tomás Vinuesa, de 86 años, llegó en febrero al centro de mayores de Ibercaja-Fundación Rey en Juslibol para atender y acompañar a su mujer, Manuela, de 85 años....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/25/6ab6a3baa60996-95649233.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "3qmexzd8v",
+    "title": "El Certamen Oficial de Jota Aragonesa celebrará su histórica edición número 140 durante el Pilar 2026",
+    "original_source": "ZARAGOZALA.com",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xTmE4MVpuTGQ5OVpmXzZVODhKTmJqdjVUd1FrcGVTb1VYSGtybzRhSEpTN3ozMUZUSUsxWkxEM1NxbFJINnZvaFUzMkJRUTNiUmtOSV94SUhqYmNJMFJaWHZaN3ZJYlFCTHBoUS1ISTJCek5keUNKazVySmVnMGs?oc=5",
+    "pub_date": "2026-09-29T18:28:31.000Z",
+    "summary": "El Certamen Oficial de Jota Aragonesa celebrará su histórica edición número 140 durante el Pilar 2026  ZARAGOZALA.com...",
+    "image_url": null,
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "1nx8gdwl1",
+    "title": "FIGAN 2027: así será la gran feria ganadera que se celebrará en Zaragoza en marzo",
+    "original_source": "Aragón Digital",
+    "link": "https://www.aragondigital.es/articulo/economia/figan-2027-asi-sera-gran-feria-ganadera-que-celebrara-zaragoza-marzo/202609291952351011446.html",
+    "pub_date": "2026-09-29T17:52:35.000Z",
+    "summary": "La Feria Internacional para la Producción Animal se celebrará del 16 al 19 de marzo de 2027 en Feria de Zaragoza...",
+    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/09/29/2026092919450913564.jpg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "wvlspqjev",
+    "title": "Ojo, cambios en la zona azul y naranja de Zaragoza: estas son las personas que podrán aparcar gratis",
+    "original_source": "Aragón Digital",
+    "link": "https://www.aragondigital.es/articulo/zaragoza/ojo-cambios-zona-azul-naranja-zaragoza-son-personas-que-podran-aparcar-gratis/202609291949261011445.html",
+    "pub_date": "2026-09-29T17:49:26.000Z",
+    "summary": "La medida ha sido planteada por Vox y se incorpora al proyecto de Ordenanzas Fiscales de 2027...",
+    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2024/09/06/2024090611314775234.jpg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "luqe3269p",
+    "title": "Inclusión, territorio y derechos sociales: los cinco premiados que deja la gala de la ONCE en Aragón",
+    "original_source": "Aragón Digital",
+    "link": "https://www.aragondigital.es/articulo/sociedad/inclusion-territorio-derechos-sociales-cinco-premiados-que-deja-gala-once-aragon/202609291946521011444.html",
+    "pub_date": "2026-09-29T17:46:52.000Z",
+    "summary": "La gala celebrada en CaixaForum Zaragoza ha reconocido trayectorias e iniciativas vinculadas a la inclusión, la solidaridad y el territorio...",
+    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/09/29/2026092919455486854.jpg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "r8o3m1kf4",
+    "title": "Zaragoza aprueba las Ordenanzas Fiscales de 2027: el IBI se congela y agua y basuras subirán un 2,5%",
+    "original_source": "Aragón Digital",
+    "link": "https://www.aragondigital.es/articulo/zaragoza/zaragoza-aprueba-ordenanzas-fiscales-2027-ibi-congela-agua-basuras-subiran-25/202609291942401011441.html",
+    "pub_date": "2026-09-29T17:42:40.000Z",
+    "summary": "La principal modificación será la actualización del 2,5%de las tasas de abastecimiento de agua y basuras...",
+    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/09/29/2026092919420460009.jpg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "671xjbljg",
+    "title": "Una leyenda del CAI Zaragoza se suma a los actos por la semana para combatir la soledad no deseada",
+    "original_source": "Aragón Digital",
+    "link": "https://www.aragondigital.es/articulo/sociedad/leyenda-cai-zaragoza-suma-actos-semana-combatir-soledad-deseada/202609291938311011438.html",
+    "pub_date": "2026-09-29T17:38:31.000Z",
+    "summary": "La programación, impulsada por la Dirección General de Mayores con la colaboración de la Fundación Caja Rural de Aragón y la Confederación de Federaciones Deportivas Aragonesas (Cofedar)...",
+    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/07/28/2026072817575576060.jpg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "1srq1vy0o",
+    "title": "Manuel Jabois, presenta \"La víspera\" en Zaragoza: \"Siempre hay peros, hasta en lo más sagrado\"",
+    "original_source": "Aragón Digital",
+    "link": "https://www.aragondigital.es/articulo/cultura/manuel-jabois-siempre-peros-mas-sagrado/202609291931361011435.html",
+    "pub_date": "2026-09-29T17:31:36.000Z",
+    "summary": "Se trata de la cuarta novela del escritor gallego...",
+    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/09/29/2026092919270957912.jpg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "j9txq4uos",
+    "title": "Casademont Zaragoza, en busca de recuperar el fortín del Felipe donde suma siete triunfos de sus diez últimos estrenos",
+    "original_source": "Aragón Digital",
+    "link": "https://www.aragondigital.es/articulo/basket-zaragoza/casademont-zaragoza-busca-recuperar-fortin-principe-felipe-donde-ha-ganado-siete-ultimos-diez-estrenos-acb/202609291918101011431.html",
+    "pub_date": "2026-09-29T17:18:10.000Z",
+    "summary": "El conjunto aragonés se estrena este domingo ante su afición midiéndose a Valencia Basket y con el objetivo de volver a hacer del pabellón zaragozano una de sus grandes fortalezas...",
+    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/09/29/2026092919082192573.jpg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "c7i2eatv6",
+    "title": "Andrés Borge: \"Al Real Zaragoza le deseo lo mejor, pero soy muy competitivo y quiero ganar\"",
+    "original_source": "Aragón Digital",
+    "link": "https://www.aragondigital.es/articulo/real-zaragoza/andres-borge-real-zaragoza-quiero-ganar/202609291909141011422.html",
+    "pub_date": "2026-09-29T17:09:14.000Z",
+    "summary": "El canterano del Real Zaragoza Andrés Borge vive su partido más peculiar con el Teruel, pero no niega su ilusión....",
+    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/09/29/2026092919045288228.jpg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "rmqna22fv",
+    "title": "Mariona Ortiz recibe una \"potente oferta\" del extranjero y abandonará el Casademont Zaragoza",
+    "original_source": "Heraldo de Aragón",
+    "link": "https://www.heraldo.es/noticias/deportes/baloncesto/2026/09/29/mariona-ortiz-potente-oferta-extranjero-casademont-zaragoza-2055573.html",
+    "pub_date": "2026-09-29T13:05:21.000Z",
+    "summary": "La base de 34 años, capitana y buque insignia del equipo femenino, acuerda con el club la rescisión de su contrato. Está previsto que deje la entidad a principios del 2027....",
+    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/09/29/6abba7b7a8e833-85474828.r_d.1799-1108-6400.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
+    "id": "ijppw0dk6",
+    "title": "Paralizado el desahucio de Esmeralda y su hija de 11 años en Zaragoza",
+    "original_source": "20 Minutos Zaragoza",
+    "link": "https://www.20minutos.es/aragon/zaragoza/paralizado-desahucio-esmeralda-su-hija-11-anos-zaragoza_7042676_0.html",
+    "pub_date": "2026-09-29T10:32:27.000Z",
+    "summary": "Entre este miércoles y el jueves se comunicarán al abogado de Esmeralda las condiciones del aplazamiento....",
+    "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/29/6abb8d1070cca7-84283375.jpeg",
+    "category": "ZARAGOZA"
+  },
+  {
     "id": "799ovrxlx",
     "title": "Zaragoza lo vuelve a intentar con la Fuente de Goya: nuevo impulso a la reforma de plaza del Pilar",
     "original_source": "Aragón Digital",
@@ -288,6 +468,16 @@
     "summary": "Los vecinos de La Jota en Zaragoza volverán a tomar la calle y organizan una manifestación hasta la plaza del Pilar: \"No nos escuchan\"  heraldo.es...",
     "image_url": null,
     "category": "LA JOTA"
+  },
+  {
+    "id": "sk3tocoa4",
+    "title": "Mai Tai Picarral renueva su carta con el auténtico sabor del American Texas BBQ",
+    "original_source": "Enjoy Zaragoza",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nMlBoUElLVkJuTi1TNFVjY0ZaV2VVOUxQaWVKVmZXN18ta05PSnpKU1VJbXViekxTRVluMXBxRmZKZlJRRWtjR1BtaXZrdktwX2xsM2hjdWNydw?oc=5",
+    "pub_date": "2026-09-28T12:00:06.000Z",
+    "summary": "Mai Tai Picarral renueva su carta con el auténtico sabor del American Texas BBQ  Enjoy Zaragoza...",
+    "image_url": null,
+    "category": "PICARRAL"
   },
   {
     "id": "n39on2b5q",
@@ -3197,186 +3387,6 @@
     "pub_date": "2026-09-20T06:21:25.000Z",
     "summary": "El incendio se producía en torno a las 00.15 de la madrugada de este domingo en la calle Amado Nervo, una bocacalle de Reina Fabiola....",
     "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/20/6aaf7a6009ef37-90797049.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "xyxv9p8q8",
-    "title": "Objetivo del Real Zaragoza ante el Cartagena: pisar la zona de puestos de ascenso",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/deportes/futbol/real-zaragoza/2026/09/20/objetivo-real-zaragoza-ante-cartagena-pisar-ya-zona-los-puestos-ascenso-2053157.html",
-    "pub_date": "2026-09-20T03:00:00.000Z",
-    "summary": "El equipo aragonés recibe a los cartageneros (20.30) con la tercera victoria seguida a mano. El mandato de hacer inexpugnable el Ibercaja traerá el premio de meterse en cabeza por sí solo....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/09/19/6aaed6cca5f4b1-63428512.r_d.1066-392-14769.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "swl4z2l42",
-    "title": "El plato del día llega al Bodegón Azoque de Zaragoza",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/gastronomia/2026/09/20/plato-dia-llega-bodegon-azoque-zaragoza-2052389.html",
-    "pub_date": "2026-09-20T03:00:00.000Z",
-    "summary": "En septiembre con arroces muy elaborados y, después del Pilar, con platos de cuchara....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/16/6aaacde5a98825-62563313.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "g8uqjy2dt",
-    "title": "La mayor conectividad de Zaragoza",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/opinion/2026/09/20/mayor-conectividad-zaragoza-2052999.html",
-    "pub_date": "2026-09-20T03:00:00.000Z",
-    "summary": "El aeropuerto de Zaragoza afronta una nueva etapa con más destinos nacionales e internacionales...",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/18/6aad0f5f38d9c9-23128919.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "5u8m27614",
-    "title": "Caja Rural de Aragón abre el primer cajero de Arcosur y una oficina en Valdespartera",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/economia/2026/09/20/caja-rural-aragon-abre-primer-cajero-arcosur-una-oficina-valdespartera-2053137.html",
-    "pub_date": "2026-09-20T03:00:00.000Z",
-    "summary": "La cooperativa de crédito se implica en una zona de Zaragoza en plena expansión con más servicios....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/19/6aaebdcc2e30b0-58627262.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "iulw4il7h",
-    "title": "Renace el proyecto para levantar en Zaragoza un gran pabellón para conciertos con aforo para 15.000 personas",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/09/20/renace-proyecto-para-levantar-zaragoza-un-gran-pabellon-para-conciertos-aforo-para-15-000-personas-2053050.html",
-    "pub_date": "2026-09-20T03:00:00.000Z",
-    "summary": "El Ayuntamiento ha iniciado la búsqueda de ubicaciones bajo la premisa de que esté bien comunicado y se financie en colaboración público-privada....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/07/10/6a5154bcb9d145-15673391.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "2lk56tzou",
-    "title": "Fernando Zamora, 99 años de memoria, pensamiento y compromiso con Zaragoza",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/2026/09/19/ucolumnista-casi-centenario-que-tiene-calle-por-gm-puso-marcha-actur-zaragoza-2052976.html",
-    "pub_date": "2026-09-19T20:00:00.000Z",
-    "summary": "El exdelegado del MOPU en Aragón, articulista de Heraldo desde 1992, repasa la transformación urbanística de la ciudad y asegura que seguirá fiel a su lema: «Escribir, leer y meditar»....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/18/6aad6f9fe63044-02306987.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "9277fkko8",
-    "title": "Zaragoza estrena un festival para celebrar el orgullo de sus barrios: \"Es una fiesta para toda la ciudad\"",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/09/19/zaragoza-estrena-un-festival-para-celebrar-orgullo-sus-barrios-es-una-fiesta-para-toda-ciudad-2053138.html",
-    "pub_date": "2026-09-19T18:00:18.000Z",
-    "summary": "Decenas de zaragozanos se han unido este sábado en el parque de La Paz en una iniciativa de la FABZ con vocación de permanencia....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/19/6aaeca226e2362-34869575.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "8t6qua9xy",
-    "title": "Bucear, cocinar o escapar a Madrid: 12 Lunas vuelve con 144 planes gratis para jóvenes zaragozanos",
-    "original_source": "Aragón Digital",
-    "link": "https://www.aragondigital.es/articulo/zaragoza/bucear-cocinar-escapar-madrid-12-lunas-vuelve-144-planes-gratis-jovenes-zaragozanos/202609191919021009216.html",
-    "pub_date": "2026-09-19T17:19:02.000Z",
-    "summary": "La programación se desarrollará entre el 16 de octubre y el 20 de diciembre y está dirigida a jóvenes de entre 14 y 30 años empadronados en Zaragoza...",
-    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/09/19/2026091919183125927.jpg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "obmense95",
-    "title": "Farmacias de guardia en Zaragoza este domingo, 20 de septiembre",
-    "original_source": "Aragón Digital",
-    "link": "https://www.aragondigital.es/articulo/zaragoza/farmacias-guardia-zaragoza-domingo-20-septiembre/202609131848311007742.html",
-    "pub_date": "2026-09-19T17:00:00.000Z",
-    "summary": "Esta es la lista detallada de las farmacias de guardia disponibles este domingo, 20 de septiembre...",
-    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2024/11/27/2024112719102386260.jpg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "ijm22yibi",
-    "title": "Los monumentos de Zaragoza caben en un lienzo: dibujantes de toda España retratan la ciudad",
-    "original_source": "Aragón Digital",
-    "link": "https://www.aragondigital.es/articulo/cultura/monumentos-zaragoza-caben-lienzo-dibujantes-toda-espana-retratan-ciudad/202609191840401009201.html",
-    "pub_date": "2026-09-19T16:40:40.000Z",
-    "summary": "La primera cita nacional de Open Sketchers ha convertido el centro de Zaragoza en un gran estudio al aire libre con participantes de toda España...",
-    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/09/19/2026091918423762808.jpg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "z5yt9lf8c",
-    "title": "Cultura pop, literatura y salud mental se dan cita esta próxima semana en Zaragoza",
-    "original_source": "Aragón Digital",
-    "link": "https://www.aragondigital.es/articulo/cultura/cultura-pop-literatura-salud-mental-dan-cita-proxima-semana-zaragoza/202609191738281009195.html",
-    "pub_date": "2026-09-19T15:38:28.000Z",
-    "summary": "La Librería La Montonera, situada en la calle San Pablo, 26, reunirá a Abel Cuevas e Itxaso Cabrera en dos citas que abordarán, desde perspectivas diferentes, la creación contemporánea...",
-    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/09/19/2026091917375967873.jpg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "685tyfkdc",
-    "title": "Puerta de Sancho, la entrada olvidada de Zaragoza hacia la Almozara",
-    "original_source": "Aragón Digital",
-    "link": "https://www.aragondigital.es/articulo/zaragoza/puerta-sancho-entrada-olvidada-zaragoza-almozara/202609191730001009156.html",
-    "pub_date": "2026-09-19T15:30:00.000Z",
-    "summary": "Era uno de los accesos de la ciudad amurallada y marcaba la frontera entre la Zaragoza protegida por sus murallas y el campo abierto de la Almozara...",
-    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/09/19/2026091912522751316.jpg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "thw1jg1xg",
-    "title": "Segundo asalto ante el Athinaikos griego: Casademont Zaragoza se presenta ante la Marea Roja",
-    "original_source": "Aragón Digital",
-    "link": "https://www.aragondigital.es/articulo/basket-zaragoza/segundo-asalto-athinaikos-griego-casademont-zaragoza-presenta-marea-roja/202609191700001009150.html",
-    "pub_date": "2026-09-19T15:00:00.000Z",
-    "summary": "Las de Carlos Cantero vuelven a enfrentarse este domingo a las 17.30 horas en el Príncipe Felipe al conjunto griego después de imponerse el pasado viernes por 66-58...",
-    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/07/14/2026071411163914519.jpg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "fom6fgip7",
-    "title": "Las niñas con discapacidad toman la palabra: “Es importante que puedan decidir sobre su vida”",
-    "original_source": "Aragón Digital",
-    "link": "https://www.aragondigital.es/articulo/sociedad/ninas-discapacidad-toman-palabra-es-importante-que-puedan-decidir-vida/202609191357331009190.html",
-    "pub_date": "2026-09-19T11:57:33.000Z",
-    "summary": "CERMI Aragón reúne en Zaragoza a niñas y adolescentes con discapacidad y a sus madres para trabajar la autonomía, los derechos, la participación y las barreras que afrontan en su día a día...",
-    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/09/19/2026091913565324017.jpg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "49jddsz3d",
-    "title": "Fitness al aire libre: seis jornadas gratuitas en los parques de Zaragoza",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/09/19/fitness-aire-libre-seis-jornadas-gratuitas-parques-zaragoza-2052763.html",
-    "pub_date": "2026-09-19T11:28:21.000Z",
-    "summary": "El programa, organizado por el Ayuntamiento de Zaragoza, y que arranca el 19 de septiembre, se desarrollará a lo largo de 2026-2027, en diferentes emplazamientos de la ciudad. No es necesaria. inscripción previa....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2022/01/10/gente-corriendo-corredores-practicar-un-deporte-al-aire-libre-running-gsc.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "5uzfb3p1g",
-    "title": "Ya está a la venta el calendario de bomberos de Zaragoza: \"Queremos ser el cuerpo más solidario\"",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/09/19/ya-esta-venta-calendario-bomberos-zaragoza-queremos-ser-cuerpo-mas-solidario-2053068.html",
-    "pub_date": "2026-09-19T11:26:42.000Z",
-    "summary": "En la edición de este año se han impreso 16.000 ejemplares, que cuestan 8 o 5 euros, dependiendo del tamaño. Todo lo recaudado va a parar a tres entidades sociales de la capital aragonesa....",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/19/6aae6e93f104f0-24835677.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "9mhxe3upi",
-    "title": "Gonzalo Hermida, a por todas en su concierto de Zaragoza: \"No me gusta la monotonía emocional\"",
-    "original_source": "Heraldo de Aragón",
-    "link": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/09/19/gonzalo-hermida-por-todas-su-concierto-zaragoza-no-me-gusta-monotonia-emocional-2053079.html",
-    "pub_date": "2026-09-19T11:26:37.000Z",
-    "summary": "El cantante y compositor gaditano actúa este sábado 19 de septiembre en el Teatro de las Esquinas...",
-    "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/19/6aae70223b0650-35153215.jpeg",
-    "category": "ZARAGOZA"
-  },
-  {
-    "id": "plvh4wtep",
-    "title": "El Gancho transformará espacios vacíos en \"hogares vecinales\" con el apoyo de Zaragoza Vivienda",
-    "original_source": "Aragón Digital",
-    "link": "https://www.aragondigital.es/articulo/zaragoza/gancho-transformara-espacios-vacios-hogares-vecinales-apoyo-zaragoza-vivienda/202609191235531009160.html",
-    "pub_date": "2026-09-19T10:35:53.000Z",
-    "summary": "La Fundación Daniel y Nina Carasso ha premiado con 75.000 euros el proyecto del Ayuntamiento de Zaragoza, que cederá patios interiores de su parque de vivienda para desarrollar actividades...",
-    "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/05/14/2026051409373327647.jpg",
     "category": "ZARAGOZA"
   }
 ]
